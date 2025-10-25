@@ -33,6 +33,7 @@
 - [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
 - [DHVN-QD-1132](DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — Regulations on Examination Affairs of Vietnam Japan University
 - [DHVN-QD-473](DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html) — Regulations on Academic Advisory Work
+- [DHVN-QD-700](DHVN-QD-700%20Regulations%20on%20the%20Prevention%20of%20Plagiarism%20in%20Education%20and%20Scientific%20Research%20at%20VNU%20Vietnam-Japan%20University.html) — Regulations on the Prevention of Plagiarism in Education and Scientific Research at VNU – Vietnam-Japan University
 - [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.html) — Notification on Submission of English Language Certificates
 - [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.html) — Notification on Submission of Foreign Language Certificates VJU2024 Cohort
 - [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.html) — Notification on Submission of Foreign Language Certificates VJU2023 Cohort

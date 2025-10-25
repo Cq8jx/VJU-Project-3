@@ -6,3 +6,7 @@ Guide/Google Meet/Fig/Unused/**
 
 # Ignore workspace-specific config artifacts
 Guide/.clasp.json
+
+# Ignore transient Google Drive artifacts
+.tmp.driveupload/
+VJU Document Handling.gsheet
