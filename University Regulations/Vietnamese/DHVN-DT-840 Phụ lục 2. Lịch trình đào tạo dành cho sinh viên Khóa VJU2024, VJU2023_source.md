@@ -14,13 +14,13 @@ lang: vi
 
 # Phụ lục 2. Lịch trình đào tạo dành cho sinh viên Khóa VJU2024, VJU2023
 
-<div class="source-note">
-  <p>
-    <strong>Ghi chú về nguồn:</strong> Tài liệu này được tạo ra từ bản PDF gốc do Trường Đại học Việt Nhật ban hành, một phần của Dự án VJU. Nỗ lực đã được thực hiện để đảm bảo chuyển đổi chính xác, nhưng tài liệu gốc nên được tham khảo cho các mục đích chính thức.
-  </p>
-  <p>
-    <strong>Tuyên bố về tính sẵn có của liên kết:</strong> Các siêu liên kết trong tài liệu này được cung cấp để thuận tiện và chỉ chính xác tại thời điểm xuất bản. Trường Đại học Việt Nhật không chịu trách nhiệm về tính hợp lệ hoặc nội dung của các trang web bên ngoài.
-  </p>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.</p>
+  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
+</div>
+
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
 </div>
 
 ## Học kỳ 1

@@ -14,14 +14,15 @@ lang: vi
 
 # Phụ lục 3. Lịch trình đào tạo dành cho sinh viên VJU2022, VJU2021, VJU2020
 
-<div class="source-note">
-  <p>
-    <strong>Ghi chú về nguồn:</strong> Tài liệu này được chuyển từ PDF do Trường Đại học Việt Nhật ban hành. Nếu có sai lệch, xin vui lòng đối chiếu bản PDF gốc.
-  </p>
-  <p>
-    <strong>Tình trạng liên kết:</strong> Các siêu liên kết được kiểm tra tại thời điểm công bố nhưng có thể thay đổi hoặc không còn hoạt động sau đó.
-  </p>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.</p>
+  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
+
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
+</div>
+
 ## Học kỳ 1
 
 | TT | Thời gian thực hiện | Nội dung công việc | Đơn vị đầu mối | Đơn vị phối hợp |

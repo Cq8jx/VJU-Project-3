@@ -21,16 +21,22 @@
 - [DHQGHN-QD-4455](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.html) — Regulation on Management of Diplomas and Certificates
 - [DHQGHN-QD-4618](DHQGHN-QD-4618%20Regulation%20on%20Management%20and%20Use%20of%20Scholarships.html) — Regulation on Management and Use of Scholarships
 - [DHQGHN-QD-5115](DHQGHN-QD-5115%20%5BSuperseded%20by%20DHQGHN-QD-3626-2022%5D%20Regulation%20on%20Undergraduate%20Training.html) — [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training
+- [DHVN-DT-840](DHVN-DT-840%20Official%20Letter%20on%20the%20Academic%20Calendar%20for%20the%202025%E2%80%932026%20Academic%20Year.html) — Official Letter on the Academic Calendar for the 2025–2026 Academic Year
+- [DHVN-DT-840 Annex 1.](DHVN-DT-840%20Annex%201.%20Academic%20Schedule%20for%20VJU2025%20Intake%20Students.html) — Appendix 1. Academic Schedule for VJU2025 Intake Students
+- [DHVN-DT-840 Annex 2.](DHVN-DT-840%20Annex%202.%20Academic%20Schedule%20for%20VJU2024%20and%20VJU2023%20Cohorts.html) — Appendix 2. Academic Schedule for VJU2024 and VJU2023 Cohorts
+- [DHVN-DT-840 Annex 3.](DHVN-DT-840%20Annex%203.%20Academic%20Schedule%20for%20VJU2022%2C%20VJU2021%2C%20VJU2020%20Students.html) — Appendix 3. Academic Schedule for VJU2022, VJU2021, VJU2020 Students
+- [DHVN-DT-840 Annex 4.](DHVN-DT-840%20Annex%204.%20Academic%20Schedule%20for%20Master%E2%80%99s%20and%20PhD%20Programs.html) — Appendix 4. Academic Schedule for Master’s and PhD Programs
 - [DHVN-HD-000](DHVN-HD-000%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.html) — Guidelines on Using Foreign Language Certificates and Certifications
 - [DHVN-HD-1534](DHVN-HD-1534%20Guidelines%20for%20Theses%20and%20Graduation%20Projects.html) — Guidelines for Theses and Graduation Projects
 - [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20English%20Format.html) — Thesis and Graduation Project Annex Templates - English Format
 - [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20Layout%20Guide.html) — Thesis and Graduation Project Annex Templates - Layout Guide
-- [DHVN-HD-259](DHVN-HD-259%20Appendix%201%20Foreign%20Language%20Certificate%20Equivalency%20Table.html) — Appendix 1 Foreign Language Certificate Equivalency Table
-- [DHVN-HD-259](DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.html) — Appendix 2 JLPT Authorization Letter Template
 - [DHVN-HD-259](DHVN-HD-259%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20for%20VJU2020%20and%20VJU2021%20Cohorts.html) — Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts
+- [DHVN-HD-259 Annex 1.](DHVN-HD-259%20Appendix%201%20Foreign%20Language%20Certificate%20Equivalency%20Table.html) — Appendix 1 Foreign Language Certificate Equivalency Table
+- [DHVN-HD-259 Annex 2.](DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.html) — Appendix 2 JLPT Authorization Letter Template
 - [DHVN-HD-304](DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.html) — Guidelines for Recognizing Learning Outcomes and Credit Transfer
 - [DHVN-HD-483](DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html) — Guidelines for Practical Internships and Internship Topics
 - [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
+- [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam.html) — Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
 - [DHVN-QD-1132](DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — Regulations on Examination Affairs of Vietnam Japan University
 - [DHVN-QD-473](DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html) — Regulations on Academic Advisory Work
 - [DHVN-QD-700](DHVN-QD-700%20Regulations%20on%20the%20Prevention%20of%20Plagiarism%20in%20Education%20and%20Scientific%20Research%20at%20VNU%20Vietnam-Japan%20University.html) — Regulations on the Prevention of Plagiarism in Education and Scientific Research at VNU – Vietnam-Japan University

@@ -14,21 +14,13 @@ lang: vi
 
 # Phụ lục 1. Lịch trình đào tạo dành cho sinh viên Khóa VJU2025
 
-<div class="source-note">
-<p><strong>Ghi chú về nguồn:</strong></p>
-<ul>
-<li>Tài liệu này được tạo ra từ bản gốc PDF có chữ ký số bởi Phòng Đào tạo và Công tác sinh viên, Trường Đại học Việt Nhật.</li>
-<li>Trong trường hợp có sự khác biệt, vui lòng tham khảo bản gốc PDF.</li>
-<li>Quá trình chuyển đổi có thể gây ra lỗi không mong muốn. Nếu bạn phát hiện bất kỳ lỗi nào, vui lòng báo cáo chúng bằng cách tạo một "issue" trong kho lưu trữ GitHub này.</li>
-</ul>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.</p>
+  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
 
-<div class="source-note">
-<p><strong>Về tính khả dụng của các liên kết:</strong></p>
-<ul>
-<li>Do các hạn chế về kỹ thuật và bản quyền, một số liên kết trong tài liệu gốc có thể không hoạt động trong phiên bản này.</li>
-<li>Chúng tôi khuyến khích người dùng tham khảo tài liệu PDF gốc để truy cập tất cả các siêu liên kết.</li>
-</ul>
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
 </div>
 
 | TT | Thời gian thực hiện | Nội dung công việc | Đơn vị đầu mối | Đơn vị phối hợp |

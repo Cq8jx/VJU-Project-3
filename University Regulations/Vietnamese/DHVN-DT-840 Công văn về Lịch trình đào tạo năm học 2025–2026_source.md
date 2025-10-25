@@ -58,14 +58,11 @@ Trân trọng./.
 - Hiệu trưởng (để b/c);
 - Lưu: VT, ĐT&CTSV, QH04.
 
-<div class="source-note">
-  <p>
-    <strong>Ghi chú nguồn:</strong> Tài liệu này được tạo ra từ bản gốc PDF có dấu đỏ chính thức của Trường Đại học Việt Nhật. Mọi nỗ lực đã được thực hiện để đảm bảo tính chính xác của tài liệu chuyển đổi, nhưng trong trường hợp có sự khác biệt, bản gốc PDF sẽ được ưu tiên áp dụng.
-  </p>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.</p>
+  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
 
-<div class="source-note">
-  <p>
-    <strong>Tình trạng liên kết:</strong> Tất cả các siêu liên kết trong tài liệu này đã được kiểm tra và hoạt động chính xác tại thời điểm công bố. Tuy nhiên, do tính chất động của web, các liên kết ngoài có thể thay đổi hoặc không còn khả dụng theo thời gian.
-  </p>
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
 </div>
