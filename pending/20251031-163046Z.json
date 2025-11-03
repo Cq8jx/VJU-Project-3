@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "savedAt": "2025-10-31T09:30:45.495Z",
+  "trigger": "manual",
+  "queue": [
+    {
+      "folderId": "1iB2da5v3KnvHfo0fKDfYTZCMQCgpl8ry"
+    }
+  ]
+}

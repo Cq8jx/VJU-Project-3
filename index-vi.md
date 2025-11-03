@@ -112,8 +112,10 @@ Trang này có thể xuất hiện các liên kết bị lỗi trong quá trình
 ## Quy định của trường
 
 {% assign regulations_vi = site.data.university_regulations_vi %}
+{% assign reg_count_vi = regulations_vi | size %}
+{% if reg_count_vi > 15 %}
 <details class="collection-toggle" open>
-  <summary>Danh mục quy định ({{ regulations_vi | size }})</summary>
+  <summary>Danh mục quy định ({{ reg_count_vi }})</summary>
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations_vi %}
@@ -122,6 +124,13 @@ Trang này có thể xuất hiện các liên kết bị lỗi trong quá trình
     </ul>
   </div>
 </details>
+{% else %}
+<ul class="document-list">
+{% for doc in regulations_vi %}
+  <li><a href="{{ doc.url | relative_url }}">{%- include doc-label.html doc=doc -%}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
 
 ## Báo cáo công khai 2025
 

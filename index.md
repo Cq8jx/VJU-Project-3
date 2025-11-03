@@ -112,8 +112,10 @@ This page may temporarily contain broken links while updates are in progress. If
 ## University Regulations
 
 {% assign regulations = site.data.university_regulations_en %}
+{% assign reg_count = regulations | size %}
+{% if reg_count > 15 %}
 <details class="collection-toggle" open>
-  <summary>University Regulations ({{ regulations | size }})</summary>
+  <summary>University Regulations ({{ reg_count }})</summary>
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations %}
@@ -122,6 +124,13 @@ This page may temporarily contain broken links while updates are in progress. If
     </ul>
   </div>
 </details>
+{% else %}
+<ul class="document-list">
+{% for doc in regulations %}
+  <li><a href="{{ doc.url | relative_url }}">{%- include doc-label.html doc=doc -%}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
 
 ## Public Report 2025
 
