@@ -132,6 +132,10 @@ This page may temporarily contain broken links while updates are in progress. If
 </ul>
 {% endif %}
 
+## Education Testing
+
+- [Education Testing document set]({{ '/education-testing/' | relative_url }}) — consolidated guidance for midterm/final examinations (multilingual).
+
 ## Public Report 2025
 
 {% assign report_docs = site.data.public_report_2025_en %}

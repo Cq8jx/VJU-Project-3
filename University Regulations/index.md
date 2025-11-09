@@ -6,6 +6,8 @@ title: University Regulations Collection Overview
 This directory catalogues Vietnam Japan University (VJU) regulations, official letters, and related administrative guidance in multiple languages. Select a transcription or consult the original source file.
 
 ## English Transcriptions
+
+> **Note:** Examination regulations (DHVN-QD-1132 series and 1274-HD-KT&ĐBCL) have moved to the [Education Testing collection]({{ '/education-testing/' | relative_url }}).
 - [CP-ND-2023-24 Decree prescribing base salary for cadres, civil servants, public employees and armed forces.md](<./English/CP-ND-2023-24%20Decree%20prescribing%20base%20salary%20for%20cadres,%20civil%20servants,%20public%20employees%20and%20armed%20forces.html>)
 - [BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs.md](<./English/BGDDT-CV-2085%20Guidance%20on%20Self-Assessment%20and%20External%20Evaluation%20of%20Training%20Programs.html>)
 - [BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD.md](<./English/BGDDT-CV-774%20Official%20Letter%20on%20Adjusting%20Appendices%20of%20Official%20Letter%202085-QLCL-KDCLGD.html>)
@@ -36,8 +38,6 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer.md](<./English/DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.html>)
 - [DHVN-HD-483 Guidelines for Practical Internships and Internship Topics.md](<./English/DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html>)
 - [DHVN-HD-000 Guidelines on Using Foreign Language Certificates and Certifications.md](<./English/DHVN-HD-000%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.html>)
-- [DHVN-QD-1132 Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University.md](<./English/DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html>)
-- [DHVN-QD-1132 Regulations on Examination Affairs of Vietnam Japan University.md](<./English/DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html>)
 - [DHVN-QD-473 Regulations on Academic Advisory Work.md](<./English/DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html>)
 - [DHVN-TB-1010 Notification on Submission of English Language Certificates.md](<./English/DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.html>)
 - [DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort.md](<./English/DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.html>)
@@ -73,8 +73,6 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-304 学習成果認定・単位互換指針.md](<./Japanese/DHVN-HD-304%20学習成果認定・単位互換指針.html>)
 - [DHVN-HD-483 実務実習・インターン課題指針.md](<./Japanese/DHVN-HD-483%20実務実習・インターン課題指針.html>)
 - [DHVN-HD-000 外国語証明書活用指針 VJU2022以降.md](<./Japanese/DHVN-HD-000%20外国語証明書活用指針%20VJU2022以降.html>)
-- [DHVN-QD-1132 日越大学における試験業務規程.md](<./Japanese/DHVN-QD-1132%20日越大学における試験業務規程.html>)
-- [DHVN-QD-1132 日越大学における試験業務規程の公布に関する決定.md](<./Japanese/DHVN-QD-1132%20日越大学における試験業務規程の公布に関する決定.html>)
 - [DHVN-QD-473 学術顧問業務規程.md](<./Japanese/DHVN-QD-473%20学術顧問業務規程.html>)
 - [DHVN-TB-1010 英語証明書提出通知 VJU2025.md](<./Japanese/DHVN-TB-1010%20英語証明書提出通知%20VJU2025.html>)
 - [DHVN-TB-911 外国語証明書提出通知 VJU2024.md](<./Japanese/DHVN-TB-911%20外国語証明書提出通知%20VJU2024.html>)
@@ -109,8 +107,6 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-304 Hướng dẫn Công nhận kết quả học tập và chuyển đổi tín chỉ_source.md](<./Vietnamese/DHVN-HD-304%20Hướng%20dẫn%20Công%20nhận%20kết%20quả%20học%20tập%20và%20chuyển%20đổi%20tín%20chỉ_source.html>)
 - [DHVN-HD-483 Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập_source.md](<./Vietnamese/DHVN-HD-483%20Hướng%20dẫn%20Công%20tác%20thực%20tập%20thực%20tế%20và%20chuyên%20đề%20thực%20tập_source.html>)
 - [DHVN-HD-000 Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ_source.md](<./Vietnamese/DHVN-HD-000%20Hướng%20dẫn%20Sử%20dụng%20chứng%20chỉ,%20chứng%20nhận%20ngoại%20ngữ_source.html>)
-- [DHVN-QD-1132 Appendix Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật_source.md](<./Vietnamese/DHVN-QD-1132%20Appendix%20Về%20việc%20ban%20hành%20Quy%20định%20về%20công%20tác%20khảo%20thí%20của%20Trường%20Đại%20học%20Việt%20Nhật_source.html>)
-- [DHVN-QD-1132 Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật_source.md](<./Vietnamese/DHVN-QD-1132%20Về%20việc%20ban%20hành%20Quy%20định%20về%20công%20tác%20khảo%20thí%20của%20Trường%20Đại%20học%20Việt%20Nhật_source.html>)
 - [DHVN-QD-473 Quy định về Công tác Cố vấn học tập_source.md](<./Vietnamese/DHVN-QD-473%20Quy%20định%20về%20Công%20tác%20Cố%20vấn%20học%20tập_source.html>)
 - [DHVN-TB-1010 Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh_source.md](<./Vietnamese/DHVN-TB-1010%20Thông%20báo%20Nộp%20chứng%20chỉ%20ngoại%20ngữ%20tiếng%20Anh_source.html>)
 - [DHVN-TB-911 Thông báo Nộp chứng nhận ngoại ngữ khóa VJU2024_source.md](<./Vietnamese/DHVN-TB-911%20Thông%20báo%20Nộp%20chứng%20nhận%20ngoại%20ngữ%20khóa%20VJU2024_source.html>)
@@ -154,8 +150,6 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-304 Recognizing Learning Outcomes and Credit Transfer_source.pdf](<./Source/DHVN-HD-304%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer_source.pdf>)
 - [DHVN-HD-483 Practical Internship Guidance_source.pdf](<./Source/DHVN-HD-483%20Practical%20Internship%20Guidance_source.pdf>)
 - [DHVN-HD-000 Using Foreign Language Certificates 2022 Onwards_source.pdf](<./Source/DHVN-HD-000%20Using%20Foreign%20Language%20Certificates%202022%20Onwards_source.pdf>)
-- [DHVN-QD-1132 Appendix Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University_source.pdf](<./Source/DHVN-QD-1132%20Appendix%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University_source.pdf>)
-- [DHVN-QD-1132 Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University_source.pdf](<./Source/DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University_source.pdf>)
 - [DHVN-QD-473 Regulations on Academic Advisory Work_source.pdf](<./Source/DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work_source.pdf>)
 - [DHVN-TB-1010 Submission of English Language Certificates_source.pdf](<./Source/DHVN-TB-1010%20Submission%20of%20English%20Language%20Certificates_source.pdf>)
 - [DHVN-TB-911 Submission of Foreign Language Certificates VJU2024_source.pdf](<./Source/DHVN-TB-911%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024_source.pdf>)
