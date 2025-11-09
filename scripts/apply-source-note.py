@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
@@ -50,6 +51,7 @@ ARIA_TO_LANG = {
 }
 
 NOTE_BLOCK_RE = re.compile(r'(<div class="source-note"[^>]*>)(.*?)(</div>)', re.DOTALL)
+SKIP_DIR_NAMES = {"Source"}
 
 
 def detect_config(text: str) -> Optional[Dict[str, str]]:
@@ -190,12 +192,24 @@ def transform_content(path: Path) -> bool:
     )
 
     new_lines = lines[: fm_end + 1] + new_content
-    Path(path).write_text("\n".join(new_lines) + "\n", encoding="utf-8")
+    path.write_text("\n".join(new_lines) + "\n", encoding="utf-8")
     return True
 
 
+def is_source_path(path: Path) -> bool:
+    return any(part in SKIP_DIR_NAMES for part in path.parts)
+
+
 def gather_files(base: Path) -> List[Path]:
-    return [p for p in base.rglob("*.md") if p.is_file()]
+    files: List[Path] = []
+    for candidate in base.rglob("*.md"):
+        if not candidate.is_file():
+            continue
+        if is_source_path(candidate):
+            print(f"Skipping Source file: {candidate}", file=sys.stderr)
+            continue
+        files.append(candidate)
+    return files
 
 
 def main() -> int:
@@ -210,6 +224,9 @@ def main() -> int:
             if path.is_dir():
                 files.extend(gather_files(path))
             elif path.is_file():
+                if is_source_path(path):
+                    print(f"Skipping Source file: {path}", file=sys.stderr)
+                    continue
                 files.append(path)
     else:
         files = gather_files(Path.cwd())

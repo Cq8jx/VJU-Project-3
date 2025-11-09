@@ -34,7 +34,8 @@ LANGUAGE_MAP: Dict[str, str] = {
 class DocumentEntry:
     identifier: str
     title: str
-    filename: str  # HTML filename for link targets
+    filename: str  # Original HTML filename for link targets
+    encoded_filename: str  # URL-safe filename
     url: str
 
 
@@ -76,12 +77,14 @@ def build_document_list(base_dir: Path, language: str) -> List[DocumentEntry]:
         title = str(front.get("title", path.stem))
 
         html_name = f"{path.stem}.html"
-        relative_url = f"/University Regulations/{language}/{html_name}"
+        encoded_name = quote(html_name)
+        relative_url = f"/University Regulations/{language}/{encoded_name}"
         docs.append(
             DocumentEntry(
                 identifier=identifier,
                 title=title,
                 filename=html_name,
+                encoded_filename=encoded_name,
                 url=relative_url,
             )
         )
@@ -92,14 +95,14 @@ def build_document_list(base_dir: Path, language: str) -> List[DocumentEntry]:
 
 def write_index(language_dir: Path, documents: List[DocumentEntry]) -> None:
     """Write the language index.md file."""
+    language_dir.mkdir(parents=True, exist_ok=True)
     lines = ["# Index", ""]
     for doc in documents:
-        encoded_filename = quote(doc.filename)
         suffix = doc.title
         if doc.title.lower().startswith(doc.identifier.lower()):
             suffix = doc.title[len(doc.identifier):].lstrip(" -—–")
 
-        line = f"- [{doc.identifier}]({encoded_filename})"
+        line = f"- [{doc.identifier}]({doc.encoded_filename})"
         if suffix:
             line += f" — {suffix}"
         lines.append(line)
@@ -111,6 +114,7 @@ def write_index(language_dir: Path, documents: List[DocumentEntry]) -> None:
 
 def write_data_file(data_dir: Path, language_code: str, documents: List[DocumentEntry]) -> None:
     """Write the Jekyll data file."""
+    data_dir.mkdir(parents=True, exist_ok=True)
     payload = [
         {"id": doc.identifier, "title": doc.title, "url": doc.url}
         for doc in documents
