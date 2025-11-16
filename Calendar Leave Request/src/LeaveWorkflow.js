@@ -259,6 +259,20 @@ var LeaveWorkflow = (function () {
         summary.errors.push(clearErrorMessage);
       }
 
+      var recordKey = key;
+      try {
+        stateStore.remove(recordKey);
+      } catch (recordCleanupError) {
+        var recordCleanupErrorMessage = recordCleanupError && (recordCleanupError.message || String(recordCleanupError));
+        logger.warn('LeaveWorkflow.cleanupOrphanApprovalRecords', {
+          message: 'Failed to remove approval record entry during orphan cleanup',
+          eventId: eventId,
+          key: recordKey,
+          error: recordCleanupErrorMessage
+        });
+        summary.errors.push(recordCleanupErrorMessage);
+      }
+
       try {
         stateStore.remove(pendingPrefix + eventId);
       } catch (cleanupRemoveError) {

@@ -108,6 +108,11 @@ function createStateStore(entriesMap) {
   assert.deepStrictEqual(removedTokens.sort(), ['tok-approve', 'tok-reject'], 'all tokens must be cleared');
   assert.deepStrictEqual(clearedEvents, ['def'], 'cleanup must clear the approval record');
   assert.deepStrictEqual(removedRowsEvents, ['def'], 'cleanup must drop log rows for the stale event');
+  assert.deepStrictEqual(
+    stateStore.removedKeys.sort(),
+    [`${DEFAULT_PENDING_PREFIX}def`, `${DEFAULT_PENDING_PREFIX}def_RECORD`].sort(),
+    'cleanup must remove both the pending marker and record entries'
+  );
 })();
 
 console.log('cleanupOrphanApprovalRecords tests passed');
