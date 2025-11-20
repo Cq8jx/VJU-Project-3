@@ -24,9 +24,9 @@ This directory consolidates guidance and regulations on midterm and final examin
 ## Vietnamese
 
 - [1274-HD-KT&ĐBCL Hướng dẫn tổ chức thi kết thúc học phần HK1 năm học 2025-2026]({{ '/Education Testing/Vietnamese/1274-HD-KTDBCL Hướng dẫn tổ chức thi kết thúc học phần HK1 năm học 2025-2026.html' | relative_url }})
-- [DHVN-QD-1132 Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật]({{ '/Education Testing/Vietnamese/DHVN-QD-1132 Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật_source.html' | relative_url }})
-- [DHVN-QD-1132 Phụ lục Quy định về công tác khảo thí (bản tóm lược)]({{ '/Education Testing/Vietnamese/DHVN-QD-1132 Appendix Về việc ban hành Quy định về công tác khảo thí của Trường Đại học_source.html' | relative_url }})
-- [DHVN-QD-1132 Phụ lục Quy định về công tác khảo thí (bản đầy đủ)]({{ '/Education Testing/Vietnamese/DHVN-QD-1132 Appendix Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật_source.html' | relative_url }})
+- [DHVN-QD-1132 Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật]({{ '/Education Testing/Vietnamese/DHVN-QD-1132 Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật.html' | relative_url }})
+- [DHVN-QD-1132 Phụ lục Quy định về công tác khảo thí (bản tóm lược)]({{ '/Education Testing/Vietnamese/DHVN-QD-1132 Appendix Về việc ban hành Quy định về công tác khảo thí của Trường Đại học.html' | relative_url }})
+- [DHVN-QD-1132 Phụ lục Quy định về công tác khảo thí (bản đầy đủ)]({{ '/Education Testing/Vietnamese/DHVN-QD-1132 Appendix Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật.html' | relative_url }})
 
 ## Source Files
 
