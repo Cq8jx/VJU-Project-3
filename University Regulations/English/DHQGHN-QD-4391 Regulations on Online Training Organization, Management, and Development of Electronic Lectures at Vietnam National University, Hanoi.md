@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-4391
+title: Regulations on Online Training Organization, Management, and Development of Electronic Lectures at Vietnam National University, Hanoi
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: 2021-12-29
+status: Official
+version:
+- en
+- ja
+- vi
+lang: en
+---
+
 This file is a text transcription from https://vanban.chinhphu.vn/?pageid=473& and the information is based on content published there.
 Table recognition is technically difficult. The layout and content of the table may be incorrect.
 【Note】
