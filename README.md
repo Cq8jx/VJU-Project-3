@@ -36,7 +36,7 @@ Stale feature branches can accumulate quickly in this repository. Follow the che
 - **2025-09-09 – DHVN-TB-1010 Notification on Submission of English Language Certificates** (VJU2025 cohort)  \
   [Markdown](<University Regulations/English/DHVN-TB-1010 Notification on Submission of English Language Certificates.md>) · [Source File](<University Regulations/Source/DHVN-TB-1010 Submission of English Language Certificates_source.pdf>)
 - **2025-07-25 – DHVN-KT&ĐBCL-826 Public Report for the 2024-2025 School Year**  \
-  [Markdown](<Public Report 2025/English/DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year.md>) · [Source File](<Public Report 2025/Source/DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+  [Markdown](<Public Report 2025/English/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year.md>) · [Source File](<Public Report 2025/Source/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
 - **2025-04-04 – DHVN-QD-323 Q1 2025 Budget Execution Disclosure**  \
   [Markdown](<Public Report 2025/English/DHVN-QD-323 Q1 2025 Budget Execution Disclosure.md>) · [Source File](<Public Report 2025/Source/DHVN-QD-323 Q1 2025 Budget Execution Disclosure_source.pdf>)
 - **2024-12-31 – DHVN-QD-1592 Budget Estimate Disclosure 2025**  \
@@ -47,7 +47,7 @@ Stale feature branches can accumulate quickly in this repository. Follow the che
 ## Table of Contents (English)
 
 ### Public Report 2025
-- **DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year** — [Markdown](<Public Report 2025/English/DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year.md>) · [Source File](<Public Report 2025/Source/DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+- **DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year** — [Markdown](<Public Report 2025/English/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year.md>) · [Source File](<Public Report 2025/Source/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
 - **DHVN-QD-1592 Budget Estimate Disclosure 2025** — [Markdown](<Public Report 2025/English/DHVN-QD-1592 Budget Estimate Disclosure 2025.md>) · [Source File](<Public Report 2025/Source/DHVN-QD-1592 Budget Estimate Disclosure 2025_source.pdf>)
 - **DHVN-QD-323 Q1 2025 Budget Execution Disclosure** — [Markdown](<Public Report 2025/English/DHVN-QD-323 Q1 2025 Budget Execution Disclosure.md>) · [Source File](<Public Report 2025/Source/DHVN-QD-323 Q1 2025 Budget Execution Disclosure_source.pdf>)
 
@@ -94,7 +94,7 @@ Stale feature branches can accumulate quickly in this repository. Follow the che
 ## Bảng mục lục (Tiếng Việt)
 
 ### Báo cáo công khai 2025
-- **DHVN-KT-DBCL-826 Báo cáo công khai năm học 2024-2025_source** — [Bản Markdown](<Public Report 2025/Vietnamese/DHVN-KT-DBCL-826 Báo cáo công khai năm học 2024-2025_source.md>) · [Tệp gốc](<Public Report 2025/Source/DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+- **DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025_source** — [Bản Markdown](<Public Report 2025/Vietnamese/DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025_source.md>) · [Tệp gốc](<Public Report 2025/Source/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
 - **DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source** — [Bản Markdown](<Public Report 2025/Vietnamese/DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source.md>) · [Tệp gốc](<Public Report 2025/Source/DHVN-QD-1592 Budget Estimate Disclosure 2025_source.pdf>)
 - **DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source** — [Bản Markdown](<Public Report 2025/Vietnamese/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.md>) · [Tệp gốc](<Public Report 2025/Source/DHVN-QD-323 Q1 2025 Budget Execution Disclosure_source.pdf>)
 
@@ -139,7 +139,7 @@ Stale feature branches can accumulate quickly in this repository. Follow the che
 ## 目次（日本語）
 
 ### 2025年度公開報告書
-- **DHVN-KT-DBCL-826 2024-2025年度の公開レポート** — [Markdown版](<Public Report 2025/Japanese/DHVN-KT-DBCL-826 2024-2025年度の公開レポート.md>) · [原本ファイル](<Public Report 2025/Source/DHVN-KT-DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+- **DHVN-KT&DBCL-826 2024-2025年度の公開レポート** — [Markdown版](<Public Report 2025/Japanese/DHVN-KT&DBCL-826 2024-2025年度の公開レポート.md>) · [原本ファイル](<Public Report 2025/Source/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
 - **DHVN-QD-1592 2025年度予算見積り公表** — [Markdown版](<Public Report 2025/Japanese/DHVN-QD-1592 2025年度予算見積り公表.md>) · [原本ファイル](<Public Report 2025/Source/DHVN-QD-1592 Budget Estimate Disclosure 2025_source.pdf>)
 - **DHVN-QD-323 2025年第1四半期予算執行公表** — [Markdown版](<Public Report 2025/Japanese/DHVN-QD-323 2025年第1四半期予算執行公表.md>) · [原本ファイル](<Public Report 2025/Source/DHVN-QD-323 Q1 2025 Budget Execution Disclosure_source.pdf>)
 
