@@ -14,9 +14,12 @@ defaults:
       layout: page
   - scope:
       path: ""
-      type: pages
+    type: pages
     values:
       nav_exclude: true
 markdown_ext: "md,markdown"
 titles_from_headings:
   enabled: false
+exclude:
+  - "*_source.md"
+  - "**/*_source.md"
