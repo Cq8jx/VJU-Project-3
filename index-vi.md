@@ -134,7 +134,10 @@ Trang này có thể xuất hiện các liên kết bị lỗi trong quá trình
 
 ## Tài liệu khảo thí
 
-- [Bộ tài liệu Education Testing]({{ '/education-testing/' | relative_url }}) — tổng hợp hướng dẫn thi giữa kỳ và cuối kỳ (đa ngôn ngữ).
+{% assign testing_docs_vi = site.data.education_testing_vi %}
+{% for doc in testing_docs_vi %}
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## Báo cáo công khai 2025
 
