@@ -39,6 +39,7 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-483 Guidelines for Practical Internships and Internship Topics.md](<./English/DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html>)
 - [DHVN-HD-000 Guidelines on Using Foreign Language Certificates and Certifications.md](<./English/DHVN-HD-000%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.html>)
 - [DHVN-QD-473 Regulations on Academic Advisory Work.md](<./English/DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html>)
+- [DHVN-QD-700 Regulations on the Prevention of Plagiarism in Education and Scientific Research at VNU Vietnam-Japan University.md](<./English/DHVN-QD-700%20Regulations%20on%20the%20Prevention%20of%20Plagiarism%20in%20Education%20and%20Scientific%20Research%20at%20VNU%20Vietnam-Japan%20University.html>)
 - [DHVN-TB-1010 Notification on Submission of English Language Certificates.md](<./English/DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.html>)
 - [DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort.md](<./English/DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.html>)
 - [DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort.md](<./English/DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.html>)
@@ -73,6 +74,7 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-304 学習成果認定・単位互換指針.md](<./Japanese/DHVN-HD-304%20学習成果認定・単位互換指針.html>)
 - [DHVN-HD-483 実務実習・インターン課題指針.md](<./Japanese/DHVN-HD-483%20実務実習・インターン課題指針.html>)
 - [DHVN-HD-000 外国語証明書活用指針 VJU2022以降.md](<./Japanese/DHVN-HD-000%20外国語証明書活用指針%20VJU2022以降.html>)
+- [DHVN-QD-700 教育及び科学研究における盗用防止規程.md](<./Japanese/DHVN-QD-700%20教育及び科学研究における盗用防止規程.html>)
 - [DHVN-QD-473 学術顧問業務規程.md](<./Japanese/DHVN-QD-473%20学術顧問業務規程.html>)
 - [DHVN-TB-1010 英語証明書提出通知 VJU2025.md](<./Japanese/DHVN-TB-1010%20英語証明書提出通知%20VJU2025.html>)
 - [DHVN-TB-911 外国語証明書提出通知 VJU2024.md](<./Japanese/DHVN-TB-911%20外国語証明書提出通知%20VJU2024.html>)
@@ -107,13 +109,11 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHVN-HD-304 Hướng dẫn Công nhận kết quả học tập và chuyển đổi tín chỉ_source.md](<./Vietnamese/DHVN-HD-304%20Hướng%20dẫn%20Công%20nhận%20kết%20quả%20học%20tập%20và%20chuyển%20đổi%20tín%20chỉ_source.html>)
 - [DHVN-HD-483 Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập_source.md](<./Vietnamese/DHVN-HD-483%20Hướng%20dẫn%20Công%20tác%20thực%20tập%20thực%20tế%20và%20chuyên%20đề%20thực%20tập_source.html>)
 - [DHVN-HD-000 Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ_source.md](<./Vietnamese/DHVN-HD-000%20Hướng%20dẫn%20Sử%20dụng%20chứng%20chỉ,%20chứng%20nhận%20ngoại%20ngữ_source.html>)
+- [DHVN-QD-700 Quy định về phòng chống đạo văn trong đào tạo và nghiên cứu khoa học tại Trường Đại học Việt Nhật, ĐHQGHN_source.md](<./Vietnamese/DHVN-QD-700%20Quy%20định%20về%20phòng%20chống%20đạo%20văn%20trong%20đào%20tạo%20và%20nghiên%20cứu%20khoa%20học%20tại%20Trường%20Đại%20học%20Việt%20Nhật,%20ĐHQGHN_source.html>)
 - [DHVN-QD-473 Quy định về Công tác Cố vấn học tập_source.md](<./Vietnamese/DHVN-QD-473%20Quy%20định%20về%20Công%20tác%20Cố%20vấn%20học%20tập_source.html>)
 - [DHVN-TB-1010 Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh_source.md](<./Vietnamese/DHVN-TB-1010%20Thông%20báo%20Nộp%20chứng%20chỉ%20ngoại%20ngữ%20tiếng%20Anh_source.html>)
 - [DHVN-TB-911 Thông báo Nộp chứng nhận ngoại ngữ khóa VJU2024_source.md](<./Vietnamese/DHVN-TB-911%20Thông%20báo%20Nộp%20chứng%20nhận%20ngoại%20ngữ%20khóa%20VJU2024_source.html>)
 - [DHVN-TB-984 Thông báo Nộp chứng chỉ ngoại ngữ khóa VJU2023_source.md](<./Vietnamese/DHVN-TB-984%20Thông%20báo%20Nộp%20chứng%20chỉ%20ngoại%20ngữ%20khóa%20VJU2023_source.html>)
-
-## Unprocessed Drafts
-- [DHVN-QD-700 Quy dinh ve phong chong dao van trong dao tao va nghien cuu khoa hoc tai Truong Dai hoc Viet Nhat, DHQGHN_source.md](<./Unprossed/DHVN-QD-700%20Quy%20dinh%20ve%20phong%20chong%20dao%20van%20trong%20dao%20tao%20va%20nghien%20cuu%20khoa%20hoc%20tai%20Truong%20Dai%20hoc%20Viet%20Nhat,%20DHQGHN_source.html>)
 
 ## Source Files
 
@@ -141,6 +141,7 @@ This directory catalogues Vietnam Japan University (VJU) regulations, official l
 - [DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates_source.pdf](<./Source/DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates_source.pdf>)
 - [DHQGHN-QD-4618 Regulation on Management and Use of Scholarships_source.pdf](<./Source/DHQGHN-QD-4618%20Regulation%20on%20Management%20and%20Use%20of%20Scholarships_source.pdf>)
 - [DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training_source.pdf](<./Source/DHQGHN-QD-5115%20[Superseded%20by%20DHQGHN-QD-3626-2022]%20Regulation%20on%20Undergraduate%20Training_source.pdf>)
+- [DHVN-QD-700 Quy dinh ve phong chong dao van trong dao tao va nghien cuu khoa hoc tai Truong Dai hoc Viet Nhat, DHQGHN_source.pdf](<./Source/DHVN-QD-700%20Quy%20dinh%20ve%20phong%20chong%20dao%20van%20trong%20dao%20tao%20va%20nghien%20cuu%20khoa%20hoc%20tai%20Truong%20Dai%20hoc%20Viet%20Nhat,%20DHQGHN_source.pdf>)
 - [DHVN-HD-1534 Organizing Theses and Graduation Projects_source.pdf](<./Source/DHVN-HD-1534%20Organizing%20Theses%20and%20Graduation%20Projects_source.pdf>)
 - [DHVN-HD-1534 Thesis Graduation Annex Templates English_source.docx](<./Source/DHVN-HD-1534%20Thesis%20Graduation%20Annex%20Templates%20English_source.docx>)
 - [DHVN-HD-1534 Thesis Graduation Annex Templates Vietnamese_source.docx](<./Source/DHVN-HD-1534%20Thesis%20Graduation%20Annex%20Templates%20Vietnamese_source.docx>)
