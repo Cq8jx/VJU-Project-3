@@ -1,4 +1,18 @@
-Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.
+---
+id: DHQGHN-QD-4391
+title: Quy định về tổ chức, quản lý đào tạo trực tuyến và xây dựng bài giảng điện tử ở Đại học Quốc gia Hà Nội
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: 2021-12-29
+status: Official
+version:
+- en
+- ja
+- vi
+lang: vi
+---
+
+Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật. Bố cục và nội dung của bảng có thể không chính xác.
 【Lưu ý】
 Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được đơn vị ban hành công bố chính thức。

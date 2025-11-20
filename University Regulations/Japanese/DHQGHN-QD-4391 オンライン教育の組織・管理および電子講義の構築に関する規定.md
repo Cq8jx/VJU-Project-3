@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-4391
+title: Đại học Quốc gia Hà Nội におけるオンライン教育の組織・管理および電子講義の構築に関する規定
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: 2021-12-29
+status: Official
+version:
+- en
+- ja
+- vi
+lang: ja
+---
+
 このファイルは https://vanban.chinhphu.vn/?pageid=473& に公開された内容を転写したものです。
 表の認識が技術的に困難なため、レイアウトや内容が正確でない可能性があります。
 【留意】
