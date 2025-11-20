@@ -44,21 +44,71 @@ jobs:
           set -euxo pipefail
           python scripts/build-index.py
 
+      - name: Pre-build diagnostics
+        if: always()
+        shell: bash
+        run: |
+          set -euxo pipefail
+          echo "=== Repository Structure Analysis ==="
+          find . -name "*.md" -type f | head -20
+          echo ""
+          echo "=== Checking for potential Liquid syntax issues ==="
+          find . -name "*.md" -type f -exec grep -l "{%" {} \; | head -10 | while read file; do
+            echo "File: $file"
+            grep -n "{%" "$file" | head -5
+            echo "---"
+          done
+          echo ""
+          echo "=== Checking for problematic filename characters ==="
+          find . -name "*&*" -o -name "*'*" -o -name '*"*' | head -10
+          echo ""
+          echo "=== _config.yml validation ==="
+          if command -v ruby >/dev/null 2>&1; then
+            ruby -ryaml -e "puts YAML.load_file('_config.yml').inspect" || echo "Config YAML syntax error detected"
+          else
+            echo "Ruby not available for config validation"
+          fi
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+          verbose: true
 
       - name: Inspect generated site
         if: always()
         shell: bash
         run: |
           set -euxo pipefail
+          echo "=== Build Results Analysis ==="
           if [ -d _site ]; then
-            find _site -maxdepth 2 -type f | sort | head -n 200
+            echo "✅ Site generation successful"
+            echo "Generated files (first 50):"
+            find _site -maxdepth 2 -type f | sort | head -n 50
+            echo ""
+            echo "Site structure:"
+            find _site -maxdepth 2 -type d | sort
           else
-            echo "_site directory not found; build may have failed before artifact generation."
+            echo "❌ _site directory not found; build failed"
+            echo ""
+            echo "=== Error Analysis ==="
+            echo "Checking for common issues:"
+            echo ""
+            echo "Files with Liquid syntax:"
+            find . -name "*.md" -type f -exec grep -l "{%" {} \; | head -5
+            echo ""
+            echo "Files with special characters in names:"
+            find . -name "*&*" -o -name "*'*" -o -name '*"*' | head -5
+            echo ""
+            echo "Recent commits that might have introduced issues:"
+            git log --oneline -3
+            echo ""
+            echo "=== Suggested Debug Steps ==="
+            echo "1. Check Jekyll error logs above for specific file and line number"
+            echo "2. Look for Liquid syntax errors in Markdown files"
+            echo "3. Verify _config.yml syntax"
+            echo "4. Check for problematic filenames with special characters"
           fi
 
       - name: Upload artifact

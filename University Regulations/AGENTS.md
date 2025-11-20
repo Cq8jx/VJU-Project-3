@@ -208,8 +208,8 @@ Apps Script / GAS に関する詳細な手順や注意事項は `~/.codex/AGENTS
 
 ### 4.2 表示チェックとレイアウト調整
 - University Regulations の Markdown で `title` に文書ID（通達番号＋付録情報）が含まれる場合、リスト表示時は `_includes/doc-label.html` を経由して ID 重複が無いことを確認する。番号体系や命名を変更した際はトップページ・各言語 index を再描画し、文書ID が二重表示になっていないか確認する。
-- `_includes/doc-label.html` を Markdown から呼び出す際は `{%- ... -%}` でホワイトスペースを抑制し、リンクの `[]()` の間に改行が入らないようにする。修正後はブラウザ／ビルド出力で見た目を確認する。
-- Liquid の `{% capture %}` で整形すると内部に改行が残りやすいため、ラベル組み立ては `append` 等で文字列を生成する。番号付きタイトル処理後はページが再ビルドされているか確認する。
+- `_includes/doc-label.html` を Markdown から呼び出す際は `{% raw %}{%- ... -%}{% endraw %}` でホワイトスペースを抑制し、リンクの `[]()` の間に改行が入らないようにする。修正後はブラウザ／ビルド出力で見た目を確認する。
+- Liquid の `{% raw %}{% capture %}{% endraw %}` で整形すると内部に改行が残りやすいため、ラベル組み立ては `append` 等で文字列を生成する。番号付きタイトル処理後はページが再ビルドされているか確認する。
 - 言語切替 UI や共通レイアウトを調整した際は `_data` の言語リストと `doc-language-switcher.html`・`_layouts/page.html` をセットで確認し、必要な差分を忘れずにコミットする。
 - 表示トラブルは GitHub Actions の結果と `_site` で生成される HTML を比較し、`lang` メタデータ不足などデータ起因かビルド遅延かを切り分ける。`python3 scripts/build-index.py` → `python3 -m http.server` や `curl` を活用する。
 - トップページと言語別 index の言語切替は `_data` のリストと `details.collection-toggle` の構成に依存するため、スタイル変更時は両方の出力を見直して表示を確認する。
