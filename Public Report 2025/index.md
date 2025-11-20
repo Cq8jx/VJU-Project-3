@@ -16,9 +16,9 @@ Documents in this directory publish annual financial and operational information
 - [DHVN-QĐ-323 2025年第1四半期予算執行公表](./Japanese/DHVN-QD-323%202025年第1四半期予算執行公表.html)
 
 ## Vietnamese Transcriptions
-- [DHVN-KT&ĐBCL-826 Báo cáo công khai năm học 2024-2025](./Vietnamese/DHVN-KT&DBCL-826%20Báo%20cáo%20công%20khai%20năm%20học%202024-2025.html)
-- [DHVN-QĐ-1592 Công khai dự toán ngân sách năm 2025](./Vietnamese/DHVN-QD-1592%20Công%20khai%20dự%20toán%20ngân%20sách%20năm%202025.html)
-- [DHVN-QĐ-323 Công khai thực hiện dự toán Quý 1 năm 2025](./Vietnamese/DHVN-QD-323%20Công%20khai%20thực%20hiện%20dự%20toán%20Quý%201%20năm%202025.html)
+- [DHVN-KT&ĐBCL-826 Báo cáo công khai năm học 2024-2025](./Vietnamese/DHVN-KT&DBCL-826%20Báo%20cáo%20công%20khai%20năm%20học%202024-2025_source.html)
+- [DHVN-QĐ-1592 Công khai dự toán ngân sách năm 2025](./Vietnamese/DHVN-QD-1592%20Công%20khai%20dự%20toán%20ngân%20sách%20năm%202025_source.html)
+- [DHVN-QĐ-323 Công khai thực hiện dự toán Quý 1 năm 2025](./Vietnamese/DHVN-QD-323%20Công%20khai%20thực%20hiện%20dự%20toán%20Quý%201%20năm%202025_source.html)
 
 ## Source Files
 - [DHVN-KT&ĐBCL-826 Public Report for the 2024-2025 School Year (PDF)](./Source/DHVN-KT&DBCL-826%20Public%20Report%20for%20the%202024-2025%20School%20Year_source.pdf)
