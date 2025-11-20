@@ -1,12 +1,18 @@
 ---
-script_id: 1XbY0KHMSvzeJf8Sh9rUdHOrkwsWdUuQmM9SwNTB3zmhXhSJXSxPKEJMD
-source_file_id: 1A7XTYrXIdLW9NvcUV03eHyxlDG3VUiYX
-source_language: vi
-processed_at: "2025-10-28T11:08:07.748Z"
-model: gemini-2.5-pro
-prompt_hash: x+gEY+eAFiHV
-mapping_version: v1
+id: 1274-HD-KTDBCL
+title: Guidance on End-of-Course Examinations for Semester 1, AY2025-2026
+issuer: VNU – Vietnam-Japan University
+category: Examination Guidance
+issue_date: 2025-10-27
+status: Official
+version:
+- en
+- ja
+- source
+- vi
+lang: en
 ---
+
 VIETNAM NATIONAL UNIVERSITY, HANOI
 **VIETNAM JAPAN UNIVERSITY**
 No.: 1274/HD - KT&ĐBCL
@@ -19,9 +25,7 @@ Subject: Regarding the Implementation of End-of-Course Examinations for the Firs
 
 # GUIDANCE ON THE IMPLEMENTATION OF END-OF-COURSE EXAMINATIONS FOR THE FIRST SEMESTER OF THE 2025-2026 ACADEMIC YEAR
 
-Pursuant to Official Dispatch No. 840/ĐHVN-ĐT dated July 30, 2025, on the development of the academic schedule for the 2025-2026 academic year at Vietnam Japan University;
-Pursuant to Decision No. 1132/QĐ-ĐHVN dated October 1, 2025, on the issuance of regulations concerning examination activities at Vietnam Japan University;
-To improve the quality of education and ensure the implementation of end-of-course examinations in accordance with the academic schedule, Vietnam Japan University hereby provides the following guidance to all units, faculty, staff, and students regarding the implementation of grading and end-of-course examinations for the first semester of the 2025-2026 academic year.
+Pursuant to Official Dispatch No. 840/ĐHVN-ĐT dated July 30, 2025, on the development of the academic schedule for the 2025-2026 academic year at Vietnam Japan University; Pursuant to Decision No. 1132/QĐ-ĐHVN dated October 1, 2025, on the issuance of regulations concerning examination activities at Vietnam Japan University; To improve the quality of education and ensure the implementation of end-of-course examinations in accordance with the academic schedule, Vietnam Japan University hereby provides the following guidance to all units, faculty, staff, and students regarding the implementation of grading and end-of-course examinations for the first semester of the 2025-2026 academic year.
 
 ## 1. Implementation Principles
 
@@ -61,35 +65,35 @@ The implementation of end-of-course examinations for the first semester of the 2
 - For examinations in the form of reports, major assignments, or essays, the submission deadline and method shall be proposed by the responsible faculty member and approved through the Program Director/Dean, in accordance with the University's academic and examination plan. The responsible faculty member is accountable for executing the plan, collecting reports, grading, submitting questions, providing grading rubrics, submitting reports/essays, and submitting the end-of-course examination grade sheet to the Department of Testing and Quality Assurance on time. Learners must follow the faculty's instructions precisely.
 - For oral examinations: Each question must have a clear scoring rubric, ensuring completeness, accuracy, comprehensiveness, applicability, uniform difficulty among questions, and consistency with the number of credits and the duration of the end-of-course examination.
 - Duration of end-of-course examinations:
-    - Essay or combined essay and multiple-choice format: 30 minutes per credit, but not exceeding 120 minutes for courses of 4 credits or more.
-    - Multiple-choice format: 20 minutes per credit, but not exceeding 90 minutes for courses of 4 credits or more.
-    - Oral examination: 15 minutes for preparation; approximately 7-10 minutes for presenting the answer and addressing additional questions from the faculty. For courses requiring more than 15 minutes of preparation time, this must be specified in the detailed syllabus.
+- Essay or combined essay and multiple-choice format: 30 minutes per credit, but not exceeding 120 minutes for courses of 4 credits or more.
+- Multiple-choice format: 20 minutes per credit, but not exceeding 90 minutes for courses of 4 credits or more.
+- Oral examination: 15 minutes for preparation; approximately 7-10 minutes for presenting the answer and addressing additional questions from the faculty. For courses requiring more than 15 minutes of preparation time, this must be specified in the detailed syllabus.
 - Examination questions must be accompanied by an answer key with a scoring rubric and a clear grading scale. The grading scale is a 10-point scale, rounded to one decimal place. For multiple-choice or foreign language examinations, grading may be done on a different scale and then converted to the 10-point scale (refer to the templates in Appendices 3 and 4).
 - The examination questions and the answer key must be placed in separate envelopes, sealed, and have a seal affixed across the flap. Each envelope must clearly state the same information as the top of the examination paper, along with the name and phone number of the creator. The creator of the answer key must sign and write their full name on the answer key (according to the attached template). If necessary, the University will publish the answer key to allow learners to review their own answer scripts.
 - Number of question versions per examination session:
-    - Essay, combined essay and multiple-choice: A minimum of 2 different versions of questions per examination session.
-    - Multiple-choice: A minimum of 2 different question codes for paper-based tests and a minimum of 4 different question codes for computer-based tests.
-    - Oral examination: Questions shall be created in sets (minimum of 10 questions), and learners will draw a question to answer during the examination session.
+- Essay, combined essay and multiple-choice: A minimum of 2 different versions of questions per examination session.
+- Multiple-choice: A minimum of 2 different question codes for paper-based tests and a minimum of 4 different question codes for computer-based tests.
+- Oral examination: Questions shall be created in sets (minimum of 10 questions), and learners will draw a question to answer during the examination session.
 - Format of end-of-course examination questions:
-    - Examination questions must be typed or clearly handwritten in black or dark blue ink on one side of A4 paper, with a margin of at least 2 cm from the edge of the paper.
-    - The top of the examination paper must clearly state the course name, course code, number of credits, question version number, and examination duration.
-    - The bottom of the examination paper must clearly state if learners are permitted to use materials.
-    - For multiple-choice examinations, the multiple-choice answer sheet template must be attached to the examination paper (see Appendix 3c).
+- Examination questions must be typed or clearly handwritten in black or dark blue ink on one side of A4 paper, with a margin of at least 2 cm from the edge of the paper.
+- The top of the examination paper must clearly state the course name, course code, number of credits, question version number, and examination duration.
+- The bottom of the examination paper must clearly state if learners are permitted to use materials.
+- For multiple-choice examinations, the multiple-choice answer sheet template must be attached to the examination paper (see Appendix 3c).
 
 ### 2.4. Requirements for Grading
 
 - Assignment of graders: The Dean/Program Director is responsible for assigning faculty members to grade the end-of-course examination answer scripts, ensuring that each course is handled by at least two faculty members. The grading process must be conducted with rigor, objectivity, accuracy, and fairness.
 - Grading and Grade Submission Process
-    - Grading on paper (essay, combined essay and multiple-choice, and multiple-choice answer sheets).
-        - The Department of Testing and Quality Assurance is responsible for preparing a room for faculty to grade and for managing the grading progress.
-        - Starting the day after the course examination date, faculty members responsible for grading can collect the answer scripts from the Department of Testing and Quality Assurance. Graders must submit the graded mark sheets and answer scripts to the Department of Testing and Quality Assurance no later than two weeks (10 working days) after the course examination date.
-        - Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. Faculty members shall grade directly on the answer scripts, using a 10-point scale with one decimal place. The answer scripts must be signed by two grading faculty members. If errors are discovered, faculty members shall request a grade correction, clearly stating the reason for the correction.
-    - Grading in the computer lab
-        - For courses graded directly on the computer: After the examination time ends, learners must stop their work and remain seated while the proctor verifies the results and records the examination score displayed on the computer screen onto the mark sheet. Learners must re-verify the result on the mark sheet before signing the examinee list. The proctor is responsible for the accuracy of the examination scores recorded on the mark sheet. The mark sheet shall be made in triplicate, with the original kept at the Department of Testing and Quality Assurance, one copy for the faculty, and one copy for the Department of Academic and Student Affairs.
-        - For courses that cannot be graded directly in the examination room: The proctor is responsible for saving the learners' answer scripts to a CD or USB immediately after each examination session ends. Immediately after the examination, the proctor shall hand over the examinee list and the CD or USB containing the learners' answer scripts to the Department of Testing and Quality Assurance. The Department of Testing and Quality Assurance shall hand over the CD or USB containing the learners' answer scripts to the staff responsible for grading, in accordance with regulations.
-        - Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. Faculty members shall record the scores on a grading sheet and return the CD or USB containing the answer scripts, the grading sheet, and the mark sheet to the Department of Testing and Quality Assurance no later than two weeks (10 working days) after the course examination date.
-    - Grading of presentations and reports: Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. Faculty members shall record the scores on a grading sheet and submit the grading sheet, answer scripts, and mark sheet to the Department of Testing and Quality Assurance no later than two weeks (10 working days) after the course examination date.
-    - Grading of oral examinations: Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. For oral examination formats without audio recordings of the learners' answers, the examination scores must be announced to the learners immediately after the examination and submitted to the Department of Testing and Quality Assurance no later than one working day from the end-of-course examination date.
+- Grading on paper (essay, combined essay and multiple-choice, and multiple-choice answer sheets).
+- The Department of Testing and Quality Assurance is responsible for preparing a room for faculty to grade and for managing the grading progress.
+- Starting the day after the course examination date, faculty members responsible for grading can collect the answer scripts from the Department of Testing and Quality Assurance. Graders must submit the graded mark sheets and answer scripts to the Department of Testing and Quality Assurance no later than two weeks (10 working days) after the course examination date.
+- Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. Faculty members shall grade directly on the answer scripts, using a 10-point scale with one decimal place. The answer scripts must be signed by two grading faculty members. If errors are discovered, faculty members shall request a grade correction, clearly stating the reason for the correction.
+- Grading in the computer lab
+- For courses graded directly on the computer: After the examination time ends, learners must stop their work and remain seated while the proctor verifies the results and records the examination score displayed on the computer screen onto the mark sheet. Learners must re-verify the result on the mark sheet before signing the examinee list. The proctor is responsible for the accuracy of the examination scores recorded on the mark sheet. The mark sheet shall be made in triplicate, with the original kept at the Department of Testing and Quality Assurance, one copy for the faculty, and one copy for the Department of Academic and Student Affairs.
+- For courses that cannot be graded directly in the examination room: The proctor is responsible for saving the learners' answer scripts to a CD or USB immediately after each examination session ends. Immediately after the examination, the proctor shall hand over the examinee list and the CD or USB containing the learners' answer scripts to the Department of Testing and Quality Assurance. The Department of Testing and Quality Assurance shall hand over the CD or USB containing the learners' answer scripts to the staff responsible for grading, in accordance with regulations.
+- Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. Faculty members shall record the scores on a grading sheet and return the CD or USB containing the answer scripts, the grading sheet, and the mark sheet to the Department of Testing and Quality Assurance no later than two weeks (10 working days) after the course examination date.
+- Grading of presentations and reports: Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. Faculty members shall record the scores on a grading sheet and submit the grading sheet, answer scripts, and mark sheet to the Department of Testing and Quality Assurance no later than two weeks (10 working days) after the course examination date.
+- Grading of oral examinations: Grading of end-of-course examination answer scripts must follow the official answer key and scoring rubric submitted to the Department of Testing and Quality Assurance. For oral examination formats without audio recordings of the learners' answers, the examination scores must be announced to the learners immediately after the examination and submitted to the Department of Testing and Quality Assurance no later than one working day from the end-of-course examination date.
 
 ### 2.5. Processing of Re-grading Results
 
@@ -215,12 +219,10 @@ The Rector's Office requests that all units proactively coordinate to implement 
 # Appendix 3a: Essay Examination Question Format
 
 ```
-VIETNAM JAPAN UNIVERSITY                        END-OF-COURSE EXAMINATION QUESTIONS
-Faculty/Program: ........................
-Question Code: ..........
-                                            Semester: ....... Academic Year: ............
-                                            Date: .............. Examination Room: .......
-                                            Duration: ..... minutes
+VIETNAM JAPAN UNIVERSITY                        END-OF-COURSE EXAMINATION QUESTIONS Faculty/Program: ........................ Question Code: ..........
+Semester: ....... Academic Year: ............
+Date: .............. Examination Room: .......
+Duration: ..... minutes
 
 
 Question 1: (LO1: 2 points)
@@ -244,8 +246,7 @@ Question 4: (LO3: 2 points)
 
 
 Note: - Students are not allowed to use materials in the examination room
-       - Proctors will not provide any further explanation
-----------------------------------End-------------------------------------
+- Proctors will not provide any further explanation ----------------------------------End-------------------------------------
 ```
 
 ---
@@ -254,37 +255,21 @@ Note: - Students are not allowed to use materials in the examination room
 
 ```
 VIETNAM JAPAN UNIVERSITY                        END-OF-COURSE EXAMINATION QUESTIONS
-                                           ...................................
-Faculty/Program: .......................    Semester: ....... Academic Year: ..............
-Question Code: ..........                       Date: ............. Examination Room: ........
-                                            Duration: ..... minutes
+................................... Faculty/Program: .......................    Semester: ....... Academic Year: .............. Question Code: ..........                       Date: ............. Examination Room: ........
+Duration: ..... minutes
 
 
-Part 1: Choose the correct answer (60 points):
-Question 1.
-    A.                  B.                  C.                  D.
-Question 2.
-    A.                  B.                  C.                  D.
-...
-Question 30
-    A.                  B.                  C.                  D.
+Part 1: Choose the correct answer (60 points): Question 1.
+A.                  B.                  C.                  D. Question 2.
+A.                  B.                  C.                  D. ... Question 30
+A.                  B.                  C.                  D.
 
-Part 2: Fill in the blanks (30 points)
-Question 31.
-...........................................................................
-Question 32.
-...........................................................................
-...
-Question 40.
-...........................................................................
+Part 2: Fill in the blanks (30 points) Question 31. ........................................................................... Question 32. ........................................................................... ... Question 40. ...........................................................................
 
-Part 3: Answer the question (10 points)
-Question 41.
-...........................................................................
----------------------------End-------------------------------
+Part 3: Answer the question (10 points) Question 41. ........................................................................... ---------------------------End-------------------------------
 
 Note: - Students are/are not allowed to use materials (specify the types of materials allowed)
-       - Proctors will not provide any further explanation
+- Proctors will not provide any further explanation
 ```
 
 ---
@@ -319,34 +304,22 @@ Note: - Students are/are not allowed to use materials (specify the types of mate
 | 13 | | | 27 | | | 40 | | |
 | 14 | | | | | | | | |
 
-Essay question (if any):
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
-...................................................................................................................
+Essay question (if any): ................................................................................................................... ................................................................................................................... ................................................................................................................... ................................................................................................................... ................................................................................................................... ................................................................................................................... ................................................................................................................... ................................................................................................................... ...................................................................................................................
 
 ---
 
 # Appendix 3d: Report-Based Examination Question Format
 
 ```
-VIETNAM JAPAN UNIVERSITY                        END-OF-COURSE EXAMINATION QUESTIONS
-Faculty/Program: ........................
-Question Code: ..........
-                                            Semester: ....... Academic Year: ............
-                                            Date: .............. Examination Room: .......
-                                            Duration: ..... minutes
+VIETNAM JAPAN UNIVERSITY                        END-OF-COURSE EXAMINATION QUESTIONS Faculty/Program: ........................ Question Code: ..........
+Semester: ....... Academic Year: ............
+Date: .............. Examination Room: .......
+Duration: ..... minutes
 ```
 
 **1. Requirements**
 - State the general requirements for the report-based examination, major assignment, or essay (submission format, document formatting, information to be provided, etc.).
-- Provide the evaluation criteria for the report or major assignment so that students can understand the specific requirements.
-Below is an example of an evaluation rubric that faculty can refer to:
+- Provide the evaluation criteria for the report or major assignment so that students can understand the specific requirements. Below is an example of an evaluation rubric that faculty can refer to:
 
 | Evaluation Level | Weight | Excellent (9-10 pts) | Good (7-8 pts) | Average (5-6 pts) | Fail (0-4 pts) | Score |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -360,22 +333,15 @@ Below is an example of an evaluation rubric that faculty can refer to:
 | 6. References and Citations | 10% | The reference list and in-text citations are consistent, and the reference format follows instructions | Less than 20% errors | 20-50% errors | More than 50% reference errors | |
 | 7. Plagiarism | 10% | Plagiarism rate < 5% | Plagiarism rate: 5%-10% | Plagiarism rate: 10%-15% | Plagiarism rate: 15%-20% | |
 
-**Note:** If the plagiarism rate exceeds 20%, the product will receive a score of 0, in accordance with the plagiarism prevention regulations of Vietnam Japan University.
-**2. Topics:**
-State the topics or questions that students can choose from to complete the assignment according to the requirements.
-\---------------------------------------End---------------------------------------
+**Note:** If the plagiarism rate exceeds 20%, the product will receive a score of 0, in accordance with the plagiarism prevention regulations of Vietnam Japan University. **2. Topics:** State the topics or questions that students can choose from to complete the assignment according to the requirements. \---------------------------------------End---------------------------------------
 
 ---
 
 # Appendix 4a: Answer Key and Grading Rubric for Essay Examination Format
 
-**VIETNAM JAPAN UNIVERSITY**
-**Faculty/Program:** ............................
+**VIETNAM JAPAN UNIVERSITY** **Faculty/Program:** ............................
 
-**ANSWER KEY AND GRADING RUBRIC**
-**Course:** ......................................
-Course Code: .....................
-Number of Credits: .................
+**ANSWER KEY AND GRADING RUBRIC** **Course:** ...................................... Course Code: ..................... Number of Credits: .................
 
 ## Part I: General Information
 
@@ -427,21 +393,15 @@ To evaluate the outcomes achieved by students based on Learning Outcomes (LOs)
 | | | | Item 4: ..................... | 0.5 | |
 | **Total** | **4 Questions** | | | **10 points** | |
 
-*Hanoi, .../.../2025*
-**Faculty Member**
-*(Signature and full name)*
+*Hanoi, .../.../2025* **Faculty Member** *(Signature and full name)*
 
 ---
 
 # Appendix 4b: Answer Key and Grading Rubric for Multiple-Choice Examination Format
 
-**VIETNAM JAPAN UNIVERSITY**
-**Faculty/Program:** ............................
+**VIETNAM JAPAN UNIVERSITY** **Faculty/Program:** ............................
 
-**ANSWER KEY AND GRADING RUBRIC**
-**Course:** ......................................
-Course Code: .....................
-Number of Credits: .................
+**ANSWER KEY AND GRADING RUBRIC** **Course:** ...................................... Course Code: ..................... Number of Credits: .................
 
 ## Part I: General Information
 
@@ -483,21 +443,15 @@ To evaluate the outcomes achieved by students based on Learning Outcomes (LOs)
 | | -Item 2: ...... | 5 | | | | | | |
 | **Total** | | | | | | **41 Questions** | | **100 points** |
 
-*Hanoi, .../.../2025*
-**Faculty Member**
-*(Signature and full name)*
+*Hanoi, .../.../2025* **Faculty Member** *(Signature and full name)*
 
 ---
 
 # Appendix 4c: Answer Key and Grading Rubric for Report-Based Examination Format
 
-**VIETNAM JAPAN UNIVERSITY**
-**Faculty/Program:** ............................
+**VIETNAM JAPAN UNIVERSITY** **Faculty/Program:** ............................
 
-**ANSWER KEY AND GRADING RUBRIC**
-**Course:** ......................................
-Course Code: .....................
-Number of Credits: .................
+**ANSWER KEY AND GRADING RUBRIC** **Course:** ...................................... Course Code: ..................... Number of Credits: .................
 
 ## Part I: General Information
 
@@ -538,9 +492,7 @@ To evaluate the outcomes achieved by students based on Learning Outcomes (LOs)
 | 7 | 7 | LO3 | 1 | |
 | **Total** | **7 (Criteria)** | **3 LOs** | **10 points** | |
 
-*Hanoi, .../.../2025*
-**Faculty Member**
-*(Signature and full name)*
+*Hanoi, .../.../2025* **Faculty Member** *(Signature and full name)*
 
 ---
 
@@ -564,32 +516,17 @@ Proctors must arrive at the examination site at least 30 minutes before the star
 # Appendix 6: Re-grading Application Form
 
 ```
-VIETNAM NATIONAL UNIVERSITY, HANOI              SOCIALIST REPUBLIC OF VIETNAM
-VIETNAM JAPAN UNIVERSITY                          Independence – Freedom – Happiness
+VIETNAM NATIONAL UNIVERSITY, HANOI              SOCIALIST REPUBLIC OF VIETNAM VIETNAM JAPAN UNIVERSITY                          Independence – Freedom – Happiness
 
-                    APPLICATION FOR RE-GRADING OF FINAL EXAMINATION SCRIPT
+APPLICATION FOR RE-GRADING OF FINAL EXAMINATION SCRIPT
 
 To: - Rector's Office, Vietnam Japan University
-    - Department of Testing and Quality Assurance
+- Department of Testing and Quality Assurance
 
-Full Name: ..........................................................................
-Student ID: ....................................... Class Code: .....................
-I hereby apply for the re-grading of the end-of-course examination result for the following course:
-Course Name: ......................................................................
-Course Code: .......................................................................
-Examination Room: ............................. Examination Date: ................................
-Semester: ................................ Academic Year: ................................
-Current Score: ............. points
-Reason for Re-grading:
-......................................................................................
-......................................................................................
-......................................................................................
-......................................................................................
-......................................................................................
+Full Name: .......................................................................... Student ID: ....................................... Class Code: ..................... I hereby apply for the re-grading of the end-of-course examination result for the following course: Course Name: ...................................................................... Course Code: ....................................................................... Examination Room: ............................. Examination Date: ................................ Semester: ................................ Academic Year: ................................ Current Score: ............. points Reason for Re-grading: ...................................................................................... ...................................................................................... ...................................................................................... ...................................................................................... ......................................................................................
 
-                                          Hanoi, .../.../2025
-Department of Testing and Quality Assurance                 Student
-        Receiving Officer                         (Signature and full name)
+Hanoi, .../.../2025 Department of Testing and Quality Assurance                 Student
+Receiving Officer                         (Signature and full name)
 ```
 
 ---
@@ -614,8 +551,7 @@ A student who receives a warning in a course will have 50% of their score for th
 > c) Suspension from the examination: Applied to students who commit one of the following violations:
 >     - Having been warned once but continuing to violate regulations during the examination for that course.
 >     - Being discovered with prohibited items after the examination questions have been distributed.
-A student who receives a suspension from the examination will be given a score of 0 for that course's examination and must leave the examination room immediately after the decision to suspend is made.
-The disciplinary actions mentioned above shall be implemented by the proctor, who will create a report, collect evidence, and clearly state the form of disciplinary action.
+A student who receives a suspension from the examination will be given a score of 0 for that course's examination and must leave the examination room immediately after the decision to suspend is made. The disciplinary actions mentioned above shall be implemented by the proctor, who will create a report, collect evidence, and clearly state the form of disciplinary action.
 > d) Students who engage in examination impersonation or ask others to take an examination on their behalf will be disciplined with a one-year suspension for the first offense, and expulsion for the second offense.
 
 ---
@@ -623,17 +559,13 @@ The disciplinary actions mentioned above shall be implemented by the proctor, wh
 # Appendix 8: Examination Room Report
 
 ```
-VIETNAM NATIONAL UNIVERSITY, HANOI              SOCIALIST REPUBLIC OF VIETNAM
-VIETNAM JAPAN UNIVERSITY                          Independence – Freedom – Happiness
-                                       Hanoi, .../.../....
+VIETNAM NATIONAL UNIVERSITY, HANOI              SOCIALIST REPUBLIC OF VIETNAM VIETNAM JAPAN UNIVERSITY                          Independence – Freedom – Happiness
+Hanoi, .../.../....
 
-                          EXAMINATION ROOM REPORT
-                 End-of-Semester I Examination, Academic Year 2025-2026
+EXAMINATION ROOM REPORT
+End-of-Semester I Examination, Academic Year 2025-2026
 
-Course:
-Time:
-Location:
-Proctors:
+Course: Time: Location: Proctors:
 
 
 Content of events in the examination room:
@@ -646,6 +578,5 @@ Content of events in the examination room:
 
 
 
-Proctor 1                           Proctor 2
-(Signature and full name)           (Signature and full name)
+Proctor 1                           Proctor 2 (Signature and full name)           (Signature and full name)
 ```
