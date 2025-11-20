@@ -48,28 +48,63 @@ jobs:
         if: always()
         shell: bash
         run: |
-          set -euxo pipefail
+          set -euo pipefail
+          
+          echo "=== Pre-build Diagnostics Started at $(date '+%Y-%m-%d %H:%M:%S UTC') ==="
+          echo ""
+          
           echo "=== Repository Structure Analysis ==="
-          find . -name "*.md" -type f | { head -20 || true; }
+          # Use ls -la approach to avoid broken pipe issues
+          find . -name "*.md" -type f -print0 2>/dev/null | head -z -20 | tr '\0' '\n' | head -20 || {
+            echo "⚠️  Error occurred at $(date '+%Y-%m-%d %H:%M:%S UTC') during file listing"
+            echo "Fallback: Using ls method"
+            find . -name "*.md" -type f 2>/dev/null | sed 20q
+          }
           echo ""
+          
           echo "=== Checking for potential Liquid syntax issues ==="
-          find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | { head -10 || true; } | while read file; do
-            if [ -n "$file" ]; then
-              echo "File: $file"
-              grep -n "{%" "$file" 2>/dev/null | { head -5 || true; }
-              echo "---"
-            fi
-          done
+          liquid_files=$(find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | sed 10q) || {
+            echo "⚠️  Error occurred at $(date '+%Y-%m-%d %H:%M:%S UTC') during Liquid syntax check"
+            liquid_files=""
+          }
+          if [ -n "$liquid_files" ]; then
+            echo "$liquid_files" | while IFS= read -r file; do
+              if [ -n "$file" ]; then
+                echo "File: $file"
+                grep -n "{%" "$file" 2>/dev/null | sed 5q || echo "Could not read file content"
+                echo "---"
+              fi
+            done
+          else
+            echo "No files with Liquid syntax found"
+          fi
           echo ""
+          
           echo "=== Checking for problematic filename characters ==="
-          (find . -name "*&*" -o -name "*'*" -o -name '*"*' 2>/dev/null | { head -10 || true; }) || echo "No problematic filenames found"
+          special_files=$(find . \( -name "*&*" -o -name "*'*" -o -name '*"*' \) 2>/dev/null | sed 10q) || {
+            echo "⚠️  Error occurred at $(date '+%Y-%m-%d %H:%M:%S UTC') during special character check"
+            special_files=""
+          }
+          if [ -n "$special_files" ]; then
+            echo "$special_files"
+          else
+            echo "No problematic filenames found"
+          fi
           echo ""
+          
           echo "=== _config.yml validation ==="
           if command -v ruby >/dev/null 2>&1; then
-            ruby -ryaml -e "puts YAML.load_file('_config.yml').inspect" 2>/dev/null || echo "Config YAML syntax error detected"
+            if ruby -ryaml -e "puts YAML.load_file('_config.yml').inspect" 2>/dev/null; then
+              echo "✅ Config YAML is valid"
+            else
+              echo "❌ Config YAML syntax error detected at $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            fi
           else
             echo "Ruby not available for config validation"
           fi
+          
+          echo ""
+          echo "=== Pre-build Diagnostics Completed at $(date '+%Y-%m-%d %H:%M:%S UTC') ==="
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
@@ -82,36 +117,67 @@ jobs:
         if: always()
         shell: bash
         run: |
-          set -euxo pipefail
-          echo "=== Build Results Analysis ==="
+          set -euo pipefail
+          
+          echo "=== Build Results Analysis Started at $(date '+%Y-%m-%d %H:%M:%S UTC') ==="
+          
           if [ -d _site ]; then
-            echo "✅ Site generation successful"
+            echo "✅ Site generation successful at $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            echo ""
             echo "Generated files (first 50):"
-            find _site -maxdepth 2 -type f | sort | head -n 50
+            find _site -maxdepth 2 -type f 2>/dev/null | sort | sed 50q || {
+              echo "⚠️  Error listing generated files at $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            }
             echo ""
             echo "Site structure:"
-            find _site -maxdepth 2 -type d | sort
+            find _site -maxdepth 2 -type d 2>/dev/null | sort || {
+              echo "⚠️  Error listing site structure at $(date '+%Y-%m-%d %H:%M:%S UTC')"
+            }
           else
-            echo "❌ _site directory not found; build failed"
+            echo "❌ _site directory not found; build failed at $(date '+%Y-%m-%d %H:%M:%S UTC')"
             echo ""
-            echo "=== Error Analysis ==="
+            echo "=== Error Analysis Started at $(date '+%Y-%m-%d %H:%M:%S UTC') ==="
             echo "Checking for common issues:"
             echo ""
+            
             echo "Files with Liquid syntax:"
-            find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | { head -5 || true; }
+            liquid_files=$(find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | sed 5q) || {
+              echo "⚠️  Error during Liquid syntax check at $(date '+%Y-%m-%d %H:%M:%S UTC')"
+              liquid_files=""
+            }
+            if [ -n "$liquid_files" ]; then
+              echo "$liquid_files"
+            else
+              echo "No Liquid syntax files found"
+            fi
             echo ""
+            
             echo "Files with special characters in names:"
-            (find . -name "*&*" -o -name "*'*" -o -name '*"*' 2>/dev/null | { head -5 || true; }) || echo "None found"
+            special_files=$(find . \( -name "*&*" -o -name "*'*" -o -name '*"*' \) 2>/dev/null | sed 5q) || {
+              echo "⚠️  Error during filename check at $(date '+%Y-%m-%d %H:%M:%S UTC')"
+              special_files=""
+            }
+            if [ -n "$special_files" ]; then
+              echo "$special_files"
+            else
+              echo "No problematic filenames found"
+            fi
             echo ""
+            
             echo "Recent commits that might have introduced issues:"
-            git log --oneline -3
+            git log --oneline -3 || echo "⚠️  Error accessing git log at $(date '+%Y-%m-%d %H:%M:%S UTC')"
             echo ""
+            
             echo "=== Suggested Debug Steps ==="
             echo "1. Check Jekyll error logs above for specific file and line number"
             echo "2. Look for Liquid syntax errors in Markdown files"
             echo "3. Verify _config.yml syntax"
             echo "4. Check for problematic filenames with special characters"
+            echo "5. Error occurred at: $(date '+%Y-%m-%d %H:%M:%S UTC')"
           fi
+          
+          echo ""
+          echo "=== Build Results Analysis Completed at $(date '+%Y-%m-%d %H:%M:%S UTC') ==="
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
