@@ -50,21 +50,23 @@ jobs:
         run: |
           set -euxo pipefail
           echo "=== Repository Structure Analysis ==="
-          find . -name "*.md" -type f | head -20
+          find . -name "*.md" -type f | { head -20 || true; }
           echo ""
           echo "=== Checking for potential Liquid syntax issues ==="
-          find . -name "*.md" -type f -exec grep -l "{%" {} \; | head -10 | while read file; do
-            echo "File: $file"
-            grep -n "{%" "$file" | head -5
-            echo "---"
+          find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | { head -10 || true; } | while read file; do
+            if [ -n "$file" ]; then
+              echo "File: $file"
+              grep -n "{%" "$file" 2>/dev/null | { head -5 || true; }
+              echo "---"
+            fi
           done
           echo ""
           echo "=== Checking for problematic filename characters ==="
-          find . -name "*&*" -o -name "*'*" -o -name '*"*' | head -10
+          (find . -name "*&*" -o -name "*'*" -o -name '*"*' 2>/dev/null | { head -10 || true; }) || echo "No problematic filenames found"
           echo ""
           echo "=== _config.yml validation ==="
           if command -v ruby >/dev/null 2>&1; then
-            ruby -ryaml -e "puts YAML.load_file('_config.yml').inspect" || echo "Config YAML syntax error detected"
+            ruby -ryaml -e "puts YAML.load_file('_config.yml').inspect" 2>/dev/null || echo "Config YAML syntax error detected"
           else
             echo "Ruby not available for config validation"
           fi
@@ -96,10 +98,10 @@ jobs:
             echo "Checking for common issues:"
             echo ""
             echo "Files with Liquid syntax:"
-            find . -name "*.md" -type f -exec grep -l "{%" {} \; | head -5
+            find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | { head -5 || true; }
             echo ""
             echo "Files with special characters in names:"
-            find . -name "*&*" -o -name "*'*" -o -name '*"*' | head -5
+            (find . -name "*&*" -o -name "*'*" -o -name '*"*' 2>/dev/null | { head -5 || true; }) || echo "None found"
             echo ""
             echo "Recent commits that might have introduced issues:"
             git log --oneline -3
