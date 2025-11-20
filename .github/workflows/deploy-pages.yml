@@ -54,19 +54,14 @@ jobs:
           echo ""
           
           echo "=== Repository Structure Analysis ==="
-          # Use ls -la approach to avoid broken pipe issues
-          find . -name "*.md" -type f -print0 2>/dev/null | head -z -20 | tr '\0' '\n' | head -20 || {
+          # Use simple and reliable method to list first 20 markdown files
+          find . -name "*.md" -type f 2>/dev/null | sed 20q || {
             echo "⚠️  Error occurred at $(date '+%Y-%m-%d %H:%M:%S UTC') during file listing"
-            echo "Fallback: Using ls method"
-            find . -name "*.md" -type f 2>/dev/null | sed 20q
           }
           echo ""
           
           echo "=== Checking for potential Liquid syntax issues ==="
-          liquid_files=$(find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | sed 10q) || {
-            echo "⚠️  Error occurred at $(date '+%Y-%m-%d %H:%M:%S UTC') during Liquid syntax check"
-            liquid_files=""
-          }
+          liquid_files=$(find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | sed 10q || true)
           if [ -n "$liquid_files" ]; then
             echo "$liquid_files" | while IFS= read -r file; do
               if [ -n "$file" ]; then
@@ -81,10 +76,7 @@ jobs:
           echo ""
           
           echo "=== Checking for problematic filename characters ==="
-          special_files=$(find . \( -name "*&*" -o -name "*'*" -o -name '*"*' \) 2>/dev/null | sed 10q) || {
-            echo "⚠️  Error occurred at $(date '+%Y-%m-%d %H:%M:%S UTC') during special character check"
-            special_files=""
-          }
+          special_files=$(find . \( -name "*&*" -o -name "*'*" -o -name '*"*' \) 2>/dev/null | sed 10q || true)
           if [ -n "$special_files" ]; then
             echo "$special_files"
           else
@@ -125,14 +117,10 @@ jobs:
             echo "✅ Site generation successful at $(date '+%Y-%m-%d %H:%M:%S UTC')"
             echo ""
             echo "Generated files (first 50):"
-            find _site -maxdepth 2 -type f 2>/dev/null | sort | sed 50q || {
-              echo "⚠️  Error listing generated files at $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            }
+            find _site -maxdepth 2 -type f 2>/dev/null | sort | sed 50q || echo "⚠️  Error listing generated files"
             echo ""
             echo "Site structure:"
-            find _site -maxdepth 2 -type d 2>/dev/null | sort || {
-              echo "⚠️  Error listing site structure at $(date '+%Y-%m-%d %H:%M:%S UTC')"
-            }
+            find _site -maxdepth 2 -type d 2>/dev/null | sort || echo "⚠️  Error listing site structure"
           else
             echo "❌ _site directory not found; build failed at $(date '+%Y-%m-%d %H:%M:%S UTC')"
             echo ""
@@ -141,10 +129,7 @@ jobs:
             echo ""
             
             echo "Files with Liquid syntax:"
-            liquid_files=$(find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | sed 5q) || {
-              echo "⚠️  Error during Liquid syntax check at $(date '+%Y-%m-%d %H:%M:%S UTC')"
-              liquid_files=""
-            }
+            liquid_files=$(find . -name "*.md" -type f -exec grep -l "{%" {} \; 2>/dev/null | sed 5q || true)
             if [ -n "$liquid_files" ]; then
               echo "$liquid_files"
             else
@@ -153,10 +138,7 @@ jobs:
             echo ""
             
             echo "Files with special characters in names:"
-            special_files=$(find . \( -name "*&*" -o -name "*'*" -o -name '*"*' \) 2>/dev/null | sed 5q) || {
-              echo "⚠️  Error during filename check at $(date '+%Y-%m-%d %H:%M:%S UTC')"
-              special_files=""
-            }
+            special_files=$(find . \( -name "*&*" -o -name "*'*" -o -name '*"*' \) 2>/dev/null | sed 5q || true)
             if [ -n "$special_files" ]; then
               echo "$special_files"
             else
