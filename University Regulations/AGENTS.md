@@ -213,6 +213,7 @@ Apps Script / GAS に関する詳細な手順や注意事項は `~/.codex/AGENTS
 - 言語切替 UI や共通レイアウトを調整した際は `_data` の言語リストと `doc-language-switcher.html`・`_layouts/page.html` をセットで確認し、必要な差分を忘れずにコミットする。
 - 表示トラブルは GitHub Actions の結果と `_site` で生成される HTML を比較し、`lang` メタデータ不足などデータ起因かビルド遅延かを切り分ける。`python3 scripts/build-index.py` → `python3 -m http.server` や `curl` を活用する。
 - トップページと言語別 index の言語切替は `_data` のリストと `details.collection-toggle` の構成に依存するため、スタイル変更時は両方の出力を見直して表示を確認する。
+- **ファイル数による表示形式の選択**: 各言語ディレクトリのMarkdownファイル数（`index.md`除く）が10を超える場合は `<details><summary>...</summary>` の折りたたみ形式を使用し、デフォルトで折りたたんだ状態（`open` 属性なし）とする。10以下の場合は通常のリスト表示を使用する。ファイル数の変更時は表示形式を適切に切り替える。
 
 ### 4.3 言語別ディレクトリと ID 管理
 - `Vietnamese/`：ベトナム語原文の Markdown。ファイル名は `文書ID <ベトナム語題名>.md`。
