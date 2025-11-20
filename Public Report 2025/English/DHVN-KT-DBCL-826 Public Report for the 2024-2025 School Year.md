@@ -1,5 +1,5 @@
 ---
-id: DHVN-KT&DBCL-826
+id: DHVN-KT-DBCL-826
 title: PUBLIC REPORT FOR THE 2024-2025 SCHOOL YEAR
 issuer: Trường Đại học Việt Nhật
 category: Public Report

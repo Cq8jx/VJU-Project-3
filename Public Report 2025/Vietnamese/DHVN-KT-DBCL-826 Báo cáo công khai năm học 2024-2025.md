@@ -1,5 +1,5 @@
 ---
-id: DHVN-KT&DBCL-826
+id: DHVN-KT-DBCL-826
 title: BÁO CÁO BA CÔNG KHAI NĂM HỌC 2024-2025
 issuer: Trường Đại học Việt Nhật
 category: Public Report
