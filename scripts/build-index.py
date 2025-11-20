@@ -33,6 +33,8 @@ LANGUAGE_MAP: Dict[str, str] = {
 CONTENT_SETS = [
     {"folder": "University Regulations", "data_prefix": "university_regulations"},
     {"folder": "Quality Assurance", "data_prefix": "quality_assurance"},
+    {"folder": "Public Report 2025", "data_prefix": "public_report_2025"},
+    {"folder": "Education Testing", "data_prefix": "education_testing"},
 ]
 
 
