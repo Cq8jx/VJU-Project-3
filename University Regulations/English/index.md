@@ -18,6 +18,7 @@
 - [DHQGHN-QD-3626](DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.html) — Regulation on Undergraduate Training
 - [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.html) — Regulation on Master's Training (Base Regulation)
 - [DHQGHN-QD-3638](DHQGHN-QD-3638%20Regulation%20on%20Doctoral%20Training.html) — Regulation on Doctoral Training
+- [DHQGHN-QD-4391](DHQGHN-QD-4391%20Regulations%20on%20Online%20Training%20Organization%2C%20Management%2C%20and%20Development%20of%20Electronic%20Lectures%20at%20Vietnam%20National%20University%2C%20Hanoi.html) — Regulations on Online Training Organization, Management, and Development of Electronic Lectures at Vietnam National University, Hanoi
 - [DHQGHN-QD-4455](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.html) — Regulation on Management of Diplomas and Certificates
 - [DHQGHN-QD-4618](DHQGHN-QD-4618%20Regulation%20on%20Management%20and%20Use%20of%20Scholarships.html) — Regulation on Management and Use of Scholarships
 - [DHQGHN-QD-5115](DHQGHN-QD-5115%20%5BSuperseded%20by%20DHQGHN-QD-3626-2022%5D%20Regulation%20on%20Undergraduate%20Training.html) — [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training
@@ -35,11 +36,10 @@
 - [DHVN-HD-259 Annex 2.](DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.html) — Appendix 2 JLPT Authorization Letter Template
 - [DHVN-HD-304](DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.html) — Guidelines for Recognizing Learning Outcomes and Credit Transfer
 - [DHVN-HD-483](DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html) — Guidelines for Practical Internships and Internship Topics
-- [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
-- [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam.html) — Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
-- [DHVN-QD-1132](DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — Regulations on Examination Affairs of Vietnam Japan University
 - [DHVN-QD-473](DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html) — Regulations on Academic Advisory Work
 - [DHVN-QD-700](DHVN-QD-700%20Regulations%20on%20the%20Prevention%20of%20Plagiarism%20in%20Education%20and%20Scientific%20Research%20at%20VNU%20Vietnam-Japan%20University.html) — Regulations on the Prevention of Plagiarism in Education and Scientific Research at VNU – Vietnam-Japan University
 - [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.html) — Notification on Submission of English Language Certificates
 - [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.html) — Notification on Submission of Foreign Language Certificates VJU2024 Cohort
 - [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.html) — Notification on Submission of Foreign Language Certificates VJU2023 Cohort
+- [Signed.Signed.HUONG_DAN_TO_CHUC_THI_KET_THUC_HOC_PHAN_-_HK_1_NAM_HOC_2025-2026](Signed.Signed.HUONG_DAN_TO_CHUC_THI_KET_THUC_HOC_PHAN_-_HK_1_NAM_HOC_2025-2026.html)
+- [Signed.Signed.HUONG_DAN_TO_CHUC_THI_KET_THUC_HOC_PHAN_-_HK_1_NAM_HOC_2025-2026_auto](Signed.Signed.HUONG_DAN_TO_CHUC_THI_KET_THUC_HOC_PHAN_-_HK_1_NAM_HOC_2025-2026_auto.html)

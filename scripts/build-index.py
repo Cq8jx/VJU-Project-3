@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
-"""Generate University Regulations indexes and data files.
+"""Generate index and data files for institutional document sets.
 
-This script scans the language-specific directories under
-`University Regulations/` and produces two artifacts per language:
+This script scans each language-specific directory under the configured
+collections (e.g., University Regulations and Quality Assurance) and
+produces the following for every language / collection pair:
 
-1. `index.md` files listing all documents for that language.
-2. `_data/university_regulations_<lang>.yml` for site-wide consumption.
+1. `index.md` listing all documents there.
+2. `_data/<collection>_<lang>.yml` so the site Template can consume the list.
 
-The existing Markdown files are expected to include YAML front matter
-with at least the `id` and `title` fields.
+Each Markdown file should include YAML front matter with at least the
+`id` and `title` fields.
 """
 
 from __future__ import annotations
@@ -28,6 +29,11 @@ LANGUAGE_MAP: Dict[str, str] = {
     "Japanese": "ja",
     "Vietnamese": "vi",
 }
+
+CONTENT_SETS = [
+    {"folder": "University Regulations", "data_prefix": "university_regulations"},
+    {"folder": "Quality Assurance", "data_prefix": "quality_assurance"},
+]
 
 
 @dataclass
@@ -56,10 +62,10 @@ def read_front_matter(path: Path) -> Optional[dict]:
     return data
 
 
-def build_document_list(base_dir: Path, language: str) -> List[DocumentEntry]:
-    """Collect document metadata for a language."""
+def build_document_list(base_dir: Path, section_dir: str, language: str) -> List[DocumentEntry]:
+    """Collect document metadata for a language within a section."""
     docs: List[DocumentEntry] = []
-    language_dir = base_dir / "University Regulations" / language
+    language_dir = base_dir / section_dir / language
 
     if not language_dir.is_dir():
         raise FileNotFoundError(f"Missing directory: {language_dir}")
@@ -78,7 +84,7 @@ def build_document_list(base_dir: Path, language: str) -> List[DocumentEntry]:
 
         html_name = f"{path.stem}.html"
         encoded_name = quote(html_name)
-        relative_url = f"/University Regulations/{language}/{encoded_name}"
+        relative_url = f"/{section_dir}/{language}/{encoded_name}"
         docs.append(
             DocumentEntry(
                 identifier=identifier,
@@ -112,7 +118,12 @@ def write_index(language_dir: Path, documents: List[DocumentEntry]) -> None:
     index_path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def write_data_file(data_dir: Path, language_code: str, documents: List[DocumentEntry]) -> None:
+def write_data_file(
+    data_dir: Path,
+    data_prefix: str,
+    language_code: str,
+    documents: List[DocumentEntry],
+) -> None:
     """Write the Jekyll data file."""
     data_dir.mkdir(parents=True, exist_ok=True)
     payload = [
@@ -121,12 +132,12 @@ def write_data_file(data_dir: Path, language_code: str, documents: List[Document
     ]
 
     yaml_text = yaml.safe_dump(payload, sort_keys=False, allow_unicode=True)
-    data_path = data_dir / f"university_regulations_{language_code}.yml"
+    data_path = data_dir / f"{data_prefix}_{language_code}.yml"
     data_path.write_text(yaml_text, encoding="utf-8")
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Build University Regulations indexes and data files.")
+    parser = argparse.ArgumentParser(description="Build document indexes and data files.")
     parser.add_argument(
         "--base-dir",
         type=Path,
@@ -141,10 +152,13 @@ def main() -> int:
     base_dir: Path = args.base_dir.resolve()
     data_dir = base_dir / "_data"
 
-    for language, code in LANGUAGE_MAP.items():
-        documents = build_document_list(base_dir, language)
-        write_index(base_dir / "University Regulations" / language, documents)
-        write_data_file(data_dir, code, documents)
+    for section in CONTENT_SETS:
+        section_name = section["folder"]
+        data_prefix = section["data_prefix"]
+        for language, code in LANGUAGE_MAP.items():
+            documents = build_document_list(base_dir, section_name, language)
+            write_index(base_dir / section_name / language, documents)
+            write_data_file(data_dir, data_prefix, code, documents)
 
     return 0
 
