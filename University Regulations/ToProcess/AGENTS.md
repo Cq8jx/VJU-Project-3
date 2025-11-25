@@ -104,7 +104,7 @@ Apps Script / GAS に関する詳細な手順や注意事項は `~/.codex/AGENTS
 ### 3.3 政府通達向け注意書き
 - PDF から Markdown を生成するとき、対象が政府通達であれば次の注意書きを冒頭に追加する（`University Regulations/` 配下のベトナム語 `.md` も同様）。  
   ```
-  Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.
+  Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.
   Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật. Bố cục và nội dung của bảng có thể không chính xác.
   【Lưu ý】
   Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được đơn vị ban hành công bố chính thức。

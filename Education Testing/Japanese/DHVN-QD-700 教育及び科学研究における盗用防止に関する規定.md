@@ -18,12 +18,12 @@ version:
 lang: ja
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">
-  <p>Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó。</p>
+  <p>Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó。</p>
   <p>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật。Bố cục và nội dung của bảng có thể không chính xác。</p>
   <p>【Lưu ý】</p>
   <p>Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý。Để có thông tin chính xác，vui lòng tham khảo văn bản gốc。</p>
   <p>Ngoài ra，có thể có các phiên bản ngôn ngữ khác được đơn vị ban hành công bố chính thức。</p>
-  <p>本ファイルはttp://vanban.chinhphu.vn/... より取得された文書のテキスト化であり，その配布元が正本となります。</p>
+  <p>本ファイルは https://vanban.chinhphu.vn/... より取得された文書のテキスト化であり，その配布元が正本となります。</p>
   <p>表は技術的制約のため正確に認識できないことがあり，レイアウトや内容が完全に一致しない可能性があります。</p>
 </div>
 

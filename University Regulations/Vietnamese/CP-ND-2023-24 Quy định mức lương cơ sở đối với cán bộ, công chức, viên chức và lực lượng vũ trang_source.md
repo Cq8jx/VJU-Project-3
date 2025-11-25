@@ -19,7 +19,7 @@ version:
 lang: vi
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">
-  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.</p>
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.</p>
   <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật.</em></p>
   <p><em>Bố cục và nội dung của bảng có thể không chính xác.</em></p>
   <p><em>【Lưu ý】 Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý.</em></p>

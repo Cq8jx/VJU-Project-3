@@ -18,7 +18,7 @@ version:
 lang: en
 ---
 <div class="source-note" role="note" aria-label="Source note">
-  <p>Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.</p>
+  <p>Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.</p>
   <p>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật. Bố cục và nội dung của bảng có thể không chính xác.</p>
   <p>【Lưu ý】</p>
   <p>Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc.</p>
