@@ -29,7 +29,7 @@ lang: ja
 
 <div class="source-note" role="note" aria-label="Source note">
   <p><strong>Source note.</strong> This file is a text transcription of information published on the web. For accurate content, please search by the regulation number and refer to the information published on the official website.</p>
-  <p><strong>ソース注記。</strong> 本ファイルは Web上に公開されていた情報をテキスト化したものです。正確な内容は、通達番号などで検索し、公式サイトで公開されている情報に従ってください。 に掲載された情報からテキスト化しており，権限のある内容は同サイト上の公開バージョンです。</p>
+  <p><strong>ソース注記。</strong> 本ファイルは Web上に公開されていた情報をテキスト化したものです。正確な内容は、通達番号などで検索し、公式サイトで公開されている情報に従ってください。</p>
   <p><em>Table recognition encountered technical limitations; table layouts may not be fully accurate.</em></p>
   <p><em>表の認識には技術的な制約があり，表のレイアウトや内容が正確でない場合があります。</em></p>
 </div>
