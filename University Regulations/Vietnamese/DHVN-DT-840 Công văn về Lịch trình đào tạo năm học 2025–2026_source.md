@@ -59,7 +59,7 @@ Trân trọng./.
 - Lưu: VT, ĐT&CTSV, QH04.
 
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">
-  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.</p>
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ thông tin được công bố trên web. Để biết nội dung chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo thông tin được công bố trên trang web chính thức.</p>
   <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
 

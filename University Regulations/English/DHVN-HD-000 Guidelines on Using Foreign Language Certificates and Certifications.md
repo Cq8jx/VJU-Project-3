@@ -12,7 +12,7 @@ version:
 lang: en
 ---
 <div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.</p>
+  <p><strong>Source note.</strong> This file is a text transcription of information published on the web. For accurate content, please search by the regulation number and refer to the information published on the official website.</p>
   <p><em>Table recognition encountered technical limitations; table layouts may not be fully accurate.</em></p>
 </div>
 
