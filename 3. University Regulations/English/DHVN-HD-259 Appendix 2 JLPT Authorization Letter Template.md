@@ -11,9 +11,9 @@ version:
 - vi
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">This file is created with reference to publicly available content.
-Due to technical limitations, the layout and content reproduction may not be accurate.
-For accurate information, please search by regulation number and refer to the issuing authority.
+<div class="source-note" role="note" aria-label="Source note">This file is created with reference to publicly available content.  
+Due to technical limitations, the layout and content reproduction may not be accurate.  
+For accurate information, please search by regulation number and refer to the issuing authority.  
 Other language versions may be officially published by the issuing authority.
 **Authorization template for students registering to take the JLPT**
 *(Issued together with 5. Guideline No. 259/HD-ĐHVN dated 3 April 2024 of the Rector of Vietnam-Japan University, VNU)*
