@@ -18,15 +18,10 @@ version:
 - vi
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
-
-【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.</em></p>
-</div>
-
-<div class="source-note" role="note" aria-label="Link notice">
-  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
-</div>
-
+<div class="source-note" role="note" aria-label="Source note">This file is created with reference to publicly available content.
+Due to technical limitations, the layout and content reproduction may not be accurate.
+For accurate information, please search by regulation number and refer to the issuing authority.
+Other language versions may be officially published by the issuing authority.
 ---
 
 **MINISTRY OF EDUCATION AND TRAINING** | **SOCIALIST REPUBLIC OF VIỆT NAM**

@@ -13,9 +13,10 @@ version:
 lang: en
 ---
 
-This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
-
-【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.
+This file is created with reference to publicly available content.
+Due to technical limitations, the layout and content reproduction may not be accurate.
+For accurate information, please search by regulation number and refer to the issuing authority.
+Other language versions may be officially published by the issuing authority.
 ---
 
 **HANOI NATIONAL UNIVERSITY**

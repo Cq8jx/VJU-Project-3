@@ -13,9 +13,10 @@ version:
 lang: vi
 ---
 
-Tệp này là bản chuyển văn bản từ nội dung được công bố công khai. Do khó khăn kỹ thuật trong việc nhận dạng bảng, bố cục và nội dung có thể không chính xác.
-
-【Lưu ý】Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được cơ quan ban hành công bố chính thức.
+Tệp này được tạo dựa trên nội dung công khai.
+Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.
+Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
 ---
 
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**

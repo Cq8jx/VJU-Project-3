@@ -11,15 +11,10 @@ version:
 - vi
 lang: vi
 ---
-<div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này là bản chuyển văn bản từ nội dung được công bố công khai. Do khó khăn kỹ thuật trong việc nhận dạng bảng, bố cục và nội dung có thể không chính xác.
-
-【Lưu ý】Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được cơ quan ban hành công bố chính thức.<p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
-</div>
-
-<div class="source-note" role="note" aria-label="Thông báo liên kết">
-  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
-</div>
-
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này được tạo dựa trên nội dung công khai.
+Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.
+Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
 **Phụ lục 2: Bố cục khóa luận và đồ án tốt nghiệp**
 
 **[Phụ lục 2.1]{.underline} :** Mẫu bìa ngoài khóa luận có in chữ nhũ, khổ ~A4~ *(210 x 297 mm)*

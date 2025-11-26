@@ -10,17 +10,20 @@ from pathlib import Path
 
 # Standard disclaimer text for each language
 STANDARD_DISCLAIMERS = {
-    'ja': """このファイルは公開された内容を転写したものです。表の認識が技術的に困難なため、レイアウトや内容が正確でない可能性があります。
-
-【留意】このファイルは参考用であり法的効力を持ちません。正確な情報は原本をご確認ください。なお、発行元が公式に公開している他言語版が存在する場合があります。""",
+    'ja': """このファイルは公開された内容を参考に作成しています。
+技術的な問題で、レイアウトや内容の再現が正確でない可能性があります。
+正確な情報は、通達番号などで調べて発行元にご確認ください。
+発行元が公式に公開している他言語版が存在する場合があります。""",
     
-    'en': """This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
-
-【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.""",
+    'en': """This file is created with reference to publicly available content.
+Due to technical limitations, the layout and content reproduction may not be accurate.
+For accurate information, please search by regulation number and refer to the issuing authority.
+Other language versions may be officially published by the issuing authority.""",
     
-    'vi': """Tệp này là bản chuyển văn bản từ nội dung được công bố công khai. Do khó khăn kỹ thuật trong việc nhận dạng bảng, bố cục và nội dung có thể không chính xác.
-
-【Lưu ý】Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được cơ quan ban hành công bố chính thức."""
+    'vi': """Tệp này được tạo dựa trên nội dung công khai.
+Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.
+Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác."""
 }
 
 def detect_language(filepath):
