@@ -14,7 +14,7 @@ defaults:
       layout: page
   - scope:
       path: ""
-    type: pages
+      type: pages
     values:
       nav_exclude: true
 markdown_ext: "md,markdown"
