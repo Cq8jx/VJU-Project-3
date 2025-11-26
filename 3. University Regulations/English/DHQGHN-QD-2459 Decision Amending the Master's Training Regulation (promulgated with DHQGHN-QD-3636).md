@@ -17,9 +17,9 @@ version:
 - vi
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-dao-tao-thac-si-tai-Dai-hoc-Quoc-gia-Ha-Noi-19465/.</p>
-  <p><em>For accurate information, please refer to the version released on that site.</em></p>
+<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>For accurate information, please refer to the version released on that site.</em></p>
   <p><em>Table recognition faces technical limitations, so table layouts and contents may not be entirely accurate.</em></p>
 </div>
 

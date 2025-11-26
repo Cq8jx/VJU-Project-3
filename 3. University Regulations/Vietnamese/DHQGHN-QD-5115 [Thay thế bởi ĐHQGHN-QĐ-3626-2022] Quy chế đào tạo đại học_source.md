@@ -17,9 +17,9 @@ version:
 - vi
 lang: vi
 ---
-<div class="source-note" role="note" aria-label="Ghi chú nguồn">
-  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ thông tin được công bố trên web. Để biết nội dung chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo thông tin được công bố trên trang web chính thức.</p>
-  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này là bản chuyển văn bản từ nội dung được công bố công khai. Do khó khăn kỹ thuật trong việc nhận dạng bảng, bố cục và nội dung có thể không chính xác.
+
+【Lưu ý】Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được cơ quan ban hành công bố chính thức.<p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
   <p><em>**Lưu ý hiệu lực:** Quy chế này đã hết hiệu lực và được thay thế bởi Quy chế đào tạo đại học ban hành kèm theo Quyết định số 3626/QĐ-ĐHQGHN ngày 21 tháng 10 năm 2022.</em></p>
 </div>
 

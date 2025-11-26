@@ -14,9 +14,9 @@ lang: vi
 
 # Phụ lục 2. Lịch trình đào tạo dành cho sinh viên Khóa VJU2024, VJU2023
 
-<div class="source-note" role="note" aria-label="Ghi chú nguồn">
-  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ thông tin được công bố trên web. Để biết nội dung chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo thông tin được công bố trên trang web chính thức.</p>
-  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này là bản chuyển văn bản từ nội dung được công bố công khai. Do khó khăn kỹ thuật trong việc nhận dạng bảng, bố cục và nội dung có thể không chính xác.
+
+【Lưu ý】Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được cơ quan ban hành công bố chính thức.<p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="Thông báo liên kết">

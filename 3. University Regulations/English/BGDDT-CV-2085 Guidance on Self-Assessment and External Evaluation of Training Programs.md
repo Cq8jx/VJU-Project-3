@@ -11,9 +11,9 @@ version:
 - source
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ and accurate information is based on the contents released there.</p>
-  <p><em>Because recognizing tables poses technical difficulties, table layouts and contents may not be entirely precise.</em></p>
+<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>Because recognizing tables poses technical difficulties, table layouts and contents may not be entirely precise.</em></p>
   <p><em>The source material contains many detailed technical specifications, so please consult the cited official website directly for the most complete and accurate information.</em></p>
 </div>
 

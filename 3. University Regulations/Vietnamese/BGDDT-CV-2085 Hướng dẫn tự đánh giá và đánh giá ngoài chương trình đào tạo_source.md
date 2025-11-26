@@ -11,9 +11,9 @@ version:
 - vi
 lang: vi
 ---
-<div class="source-note" role="note" aria-label="Ghi chú nguồn">
-  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ và thông tin chính xác dựa trên nội dung được công bố tại đó.</p>
-  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này là bản chuyển văn bản từ nội dung được công bố công khai. Do khó khăn kỹ thuật trong việc nhận dạng bảng, bố cục và nội dung có thể không chính xác.
+
+【Lưu ý】Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được cơ quan ban hành công bố chính thức.<p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
   <p><em>Do tài liệu gốc chứa một lượng lớn các bảng quy định kỹ thuật chi tiết, để có thông tin đầy đủ và chính xác nhất, vui lòng tham khảo trực tiếp tại trang web chính thức đã nêu.</em></p>
 </div>
 

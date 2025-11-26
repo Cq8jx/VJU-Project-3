@@ -11,9 +11,9 @@ version:
 - vi
 lang: ja
 ---
-<div class="source-note" role="note" aria-label="出典メモ">
-  <p><strong>出典メモ。</strong> このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Quy-dinh-ve-cong-tac-quan-ly-va-su-dung-hoc-bong-tai-Dai-hoc-Quoc-gia-Ha-Noi-19468/ を基に作成したものであり、内容は同サイトで公表された情報に基づいています。</p>
-  <p><em>表の文字認識には技術的な困難があるため、表のレイアウトや内容が完全には正確でない可能性があります。</em></p>
+<div class="source-note" role="note" aria-label="出典メモ">このファイルは公開された内容を転写したものです。表の認識が技術的に困難なため、レイアウトや内容が正確でない可能性があります。
+
+【留意】このファイルは参考用であり法的効力を持ちません。正確な情報は原本をご確認ください。なお、発行元が公式に公開している他言語版が存在する場合があります。<p><em>表の文字認識には技術的な困難があるため、表のレイアウトや内容が完全には正確でない可能性があります。</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="リンク注意">

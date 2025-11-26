@@ -11,9 +11,9 @@ version:
 - source
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is produced based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Cong-van-dieu-chinh-mot-so-phu-luc-Cong-van-so-2085-QLCL-KDCLGD-19421/ and reflects the information published on that website.</p>
-  <p><em>Because of technical limitations in table recognition, the layout and contents of tables may not be entirely accurate.</em></p>
+<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>Because of technical limitations in table recognition, the layout and contents of tables may not be entirely accurate.</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="Link notice">

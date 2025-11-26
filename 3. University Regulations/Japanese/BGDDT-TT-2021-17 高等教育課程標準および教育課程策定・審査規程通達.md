@@ -17,9 +17,9 @@ version:
 - vi
 lang: ja
 ---
-<div class="source-note" role="note" aria-label="出典メモ">
-  <p><strong>出典メモ。</strong> 本ファイルは https://vanban.chinhphu.vn/?pageid=27160&docid=203478 に公開された情報をもとに文字起こししたものであり、正式な内容は同サイトに掲載された版をご確認ください。</p>
-  <p><em>表の認識には技術的な制約があるため、体裁や内容が完全には一致しない可能性があります。</em></p>
+<div class="source-note" role="note" aria-label="出典メモ">このファイルは公開された内容を転写したものです。表の認識が技術的に困難なため、レイアウトや内容が正確でない可能性があります。
+
+【留意】このファイルは参考用であり法的効力を持ちません。正確な情報は原本をご確認ください。なお、発行元が公式に公開している他言語版が存在する場合があります。<p><em>表の認識には技術的な制約があるため、体裁や内容が完全には一致しない可能性があります。</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="リンク注意">

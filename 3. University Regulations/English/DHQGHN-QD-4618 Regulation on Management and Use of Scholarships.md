@@ -11,9 +11,9 @@ version:
 - vi
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Quy-dinh-ve-cong-tac-quan-ly-va-su-dung-hoc-bong-tai-Dai-hoc-Quoc-gia-Ha-Noi-19468/, and its contents rely on the information published on that website.</p>
-  <p><em>Because of technical challenges in recognizing tables, table layouts and contents may not be entirely accurate.</em></p>
+<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>Because of technical challenges in recognizing tables, table layouts and contents may not be entirely accurate.</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="Link notice">

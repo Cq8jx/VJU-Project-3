@@ -18,9 +18,9 @@ version:
 - vi
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is a text conversion based on https://thuvienphapluat.vn/van-ban/Giao-duc/Nghi-dinh-86-2021-ND-CP-cong-dan-Viet-Nam-ra-nuoc-ngoai-hoc-tap-giang-day-nghien-cuu-khoa-hoc-489274.aspx, and accuracy is determined by the official content published there.</p>
-  <p><em>Table recognition encountered technical difficulties, so table layouts and contents may not be entirely accurate.</em></p>
+<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>Table recognition encountered technical difficulties, so table layouts and contents may not be entirely accurate.</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="Link notice">

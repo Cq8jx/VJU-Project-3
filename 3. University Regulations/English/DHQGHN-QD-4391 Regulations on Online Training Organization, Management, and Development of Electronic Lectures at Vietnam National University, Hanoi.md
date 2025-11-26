@@ -13,10 +13,9 @@ version:
 lang: en
 ---
 
-This file is a text transcription from https://vanban.chinhphu.vn/?pageid=473& and the information is based on content published there.
-Table recognition is technically difficult. The layout and content of the table may be incorrect.
-【Note】
-This file is for reference only and has no legal value. For accurate information, please refer to the original text. In addition, there may be other language versions officially announced by the issuing unit.
+This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.
 ---
 
 **HANOI NATIONAL UNIVERSITY**

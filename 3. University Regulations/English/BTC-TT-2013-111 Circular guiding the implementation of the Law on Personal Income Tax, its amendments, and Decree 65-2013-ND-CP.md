@@ -18,9 +18,9 @@ version:
 - vi
 lang: en
 ---
-<div class="source-note" role="note" aria-label="Source note">
-  <p><strong>Source note.</strong> This file is a transcription of https://vanban.chinhphu.vn/?pageid=27160&docid=169566 and the information is aligned with the contents published there.</p>
-  <p><em>Layout and table contents may deviate from the official gazette because of technical limitations during recognition.</em></p>
+<div class="source-note" role="note" aria-label="Source note">This file is a transcription of publicly available content. Due to technical difficulties in table recognition, the layout and content may not be accurate.
+
+【Note】This file is for reference only and has no legal value. For accurate information, please refer to the original document. Additionally, other language versions may be officially published by the issuing authority.<p><em>Layout and table contents may deviate from the official gazette because of technical limitations during recognition.</em></p>
 </div>
 
 <div class="source-note" role="note" aria-label="Link notice">
