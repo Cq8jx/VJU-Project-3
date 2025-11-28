@@ -5,9 +5,9 @@ issuer: VNU – Vietnam-Japan University
 category: Academic Affairs
 status: Issued
 version:
-- vi
 - en
 - ja
+- vi
 - source
 lang: vi
 ---

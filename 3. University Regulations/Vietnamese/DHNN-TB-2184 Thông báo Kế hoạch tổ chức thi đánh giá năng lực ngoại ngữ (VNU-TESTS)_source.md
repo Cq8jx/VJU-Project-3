@@ -1,6 +1,6 @@
 ---
 id: DHNN-TB-2184
-title: Thông báo Kế hoạch tổ chức thi đánh giá năng lực ngoại ngữ (VNU-TESTS)_source
+title: Thông báo Kế hoạch tổ chức thi đánh giá năng lực ngoại ngữ (VNU-TESTS)
 issuer: Trường Đại học Ngoại ngữ, ĐHQGHN
 category: 3. University Regulations
 issue_date: null
@@ -13,15 +13,15 @@ tags:
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: vi
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này được tạo dựa trên nội dung công khai.  
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
-Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
----
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.</div>
+
 
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **TRƯỜNG ĐẠI HỌC NGOẠI NGỮ**

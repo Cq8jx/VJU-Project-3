@@ -1,21 +1,21 @@
 ---
 id: DHVN-HD-259 Annex 2.
-title: Phụ lục 2 Mẫu giấy ủy quyền thi chứng chỉ tiếng Nhật JLPT_source
+title: Phụ lục 2 Mẫu giấy ủy quyền thi chứng chỉ tiếng Nhật JLPT
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: vi
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này được tạo dựa trên nội dung công khai.  
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
-Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
----
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.</div>
+
 
 Số: 259/HD-ĐHVN
 Thời gian ký: 18/11/2024 11:53:40 +07:00

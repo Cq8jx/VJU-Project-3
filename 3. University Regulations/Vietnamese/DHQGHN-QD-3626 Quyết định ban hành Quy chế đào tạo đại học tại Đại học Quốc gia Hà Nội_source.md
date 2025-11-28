@@ -1,21 +1,21 @@
 ---
 id: DHQGHN-QD-3626
-title: Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội_source
+title: Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội
 issuer: Vietnam National University, Hanoi
 category: 3. University Regulations
 status: Official
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: vi
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này được tạo dựa trên nội dung công khai.  
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
-Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
----
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.</div>
+
 
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**

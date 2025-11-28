@@ -1,6 +1,6 @@
 ---
 id: DHVN-QD-473
-title: Quy định về Công tác Cố vấn học tập_source
+title: Quy định về Công tác Cố vấn học tập
 issuer: Trường Đại học Việt Nhật
 category: 3. University Regulations
 issue_date: null
@@ -13,15 +13,15 @@ tags:
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: vi
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này được tạo dựa trên nội dung công khai.  
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
-Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
----
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.</div>
+
 
 ---
 

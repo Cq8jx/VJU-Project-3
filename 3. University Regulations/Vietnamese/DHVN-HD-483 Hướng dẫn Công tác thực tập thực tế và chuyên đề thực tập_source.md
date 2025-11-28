@@ -1,21 +1,21 @@
 ---
 id: DHVN-HD-483
-title: Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập_source
+title: Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: vi
 ---
 <div class="source-note" role="note" aria-label="Ghi chú nguồn">Tệp này được tạo dựa trên nội dung công khai.  
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
-Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
----
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.</div>
+
 
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **TRƯỜNG ĐẠI HỌC VIỆT NHẬT**
