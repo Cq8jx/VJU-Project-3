@@ -1,21 +1,22 @@
 ---
 id: DHQGHN-QD-3636
-title: Regulation on Master's Training (Base Regulation)
+title: Regulation on Master's Training
 issuer: Vietnam National University, Hanoi
 category: 3. University Regulations
 status: Official
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: en
 ---
 <div class="source-note" role="note" aria-label="Source note">This file is created with reference to publicly available content.  
 Due to technical limitations, the layout and content reproduction may not be accurate.  
 For accurate information, please search by regulation number and refer to the issuing authority.  
-Other language versions may be officially published by the issuing authority.
-**Vietnam National University, Hanoi** **SOCIALIST REPUBLIC OF VIETNAM**
+Other language versions may be officially published by the issuing authority.</div>
+
+**Vietnam National University, Hanoi** **SOCIALIST REPUBLIC OF VIETNAM**  
 **Independence - Freedom - Happiness**
 
 *Hanoi, October 21, 2022*

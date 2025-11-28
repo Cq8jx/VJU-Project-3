@@ -1,22 +1,23 @@
 ---
 id: DHQGHN-QD-3636
-title: 修士課程に関する規則（本規程）
+title: 修士課程に関する規則
 issuer: Vietnam National University, Hanoi
 category: 3. University Regulations
 status: Official
 version:
 - en
 - ja
-- source
 - vi
+- source
 lang: ja
 ---
 <div class="source-note" role="note" aria-label="出典メモ">このファイルは公開された内容を参考に作成しています。  
 技術的な問題で、レイアウトや内容の再現が正確でない可能性があります。  
 正確な情報は、通達番号などで調べて発行元にご確認ください。  
-発行元が公式に公開している他言語版が存在する場合があります。
-**ベトナム国家大学ハノイ校** **ベトナム社会主義共和国** **独立 - 自由 -
-幸福**
+発行元が公式に公開している他言語版が存在する場合があります。</div>
+
+**ベトナム国家大学ハノイ校** **ベトナム社会主義共和国**  
+**独立 - 自由 - 幸福**
 
 *ハノイ、2022年10月21日*
 
