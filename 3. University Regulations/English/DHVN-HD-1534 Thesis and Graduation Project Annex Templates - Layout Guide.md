@@ -14,7 +14,8 @@ lang: en
 <div class="source-note" role="note" aria-label="Source note">This file is created with reference to publicly available content.  
 Due to technical limitations, the layout and content reproduction may not be accurate.  
 For accurate information, please search by regulation number and refer to the issuing authority.  
-Other language versions may be officially published by the issuing authority.
+Other language versions may be officially published by the issuing authority.</div>
+
 **Appendix 2: Thesis and graduation project layout**
 
 **[Appendix 2.1]{.underline} : Sample cover of thesis with** ~A4~ size

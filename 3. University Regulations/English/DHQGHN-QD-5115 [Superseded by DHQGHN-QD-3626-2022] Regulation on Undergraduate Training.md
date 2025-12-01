@@ -20,7 +20,8 @@ lang: en
 <div class="source-note" role="note" aria-label="Source note">This file is created with reference to publicly available content.  
 Due to technical limitations, the layout and content reproduction may not be accurate.  
 For accurate information, please search by regulation number and refer to the issuing authority.  
-Other language versions may be officially published by the issuing authority.
+Other language versions may be officially published by the issuing authority.</div>
+
 **Effectiveness notice:** This regulation is no longer in force and was replaced by the undergraduate training regulation issued with Decision No. 3626/QD-VNU dated October 21, 2022.
 
 **Vietnam National University, Hanoi** **SOCIALIST REPUBLIC OF VIETNAM**

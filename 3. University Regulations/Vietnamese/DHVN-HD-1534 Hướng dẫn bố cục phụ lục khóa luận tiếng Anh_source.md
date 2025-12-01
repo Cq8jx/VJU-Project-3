@@ -15,6 +15,7 @@ lang: vi
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
 Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
+</div>
 **Phụ lục 2: Bố cục khóa luận và đồ án tốt nghiệp**
 
 **[Phụ lục 2.1]{.underline} :** Mẫu bìa ngoài khóa luận có in chữ nhũ, khổ ~A4~ *(210 x 297 mm)*

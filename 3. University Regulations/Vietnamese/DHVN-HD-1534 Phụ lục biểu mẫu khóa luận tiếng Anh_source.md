@@ -15,6 +15,7 @@ lang: vi
 Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
 Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
 Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.
+</div>
 **Phụ lục 2: Định dạng khóa luận đại học**
 
 <em>Mẫu trình bày giữ nguyên tiếng Anh theo biểu mẫu gốc.</em>
