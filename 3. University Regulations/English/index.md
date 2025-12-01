@@ -16,7 +16,7 @@
 - [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20the%20Master%27s%20Training%20Regulation%20%28promulgated%20with%20DHQGHN-QD-3636%29.html) — Decision Amending the Master's Training Regulation (promulgated with DHQGHN-QD-3636)
 - [DHQGHN-QD-2486](DHQGHN-QD-2486%20Decision%20Amending%20and%20Supplementing%20the%20Regular%20Undergraduate%20Admission%20Regulation.html) — Decision Amending and Supplementing the Regular Undergraduate Admission Regulation
 - [DHQGHN-QD-3626](DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.html) — Regulation on Undergraduate Training
-- [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.html) — Regulation on Master's Training (Base Regulation)
+- [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.html) — Regulation on Master's Training
 - [DHQGHN-QD-3638](DHQGHN-QD-3638%20Regulation%20on%20Doctoral%20Training.html) — Regulation on Doctoral Training
 - [DHQGHN-QD-4391](DHQGHN-QD-4391%20Regulations%20on%20Online%20Training%20Organization%2C%20Management%2C%20and%20Development%20of%20Electronic%20Lectures%20at%20Vietnam%20National%20University%2C%20Hanoi.html) — Regulations on Online Training Organization, Management, and Development of Electronic Lectures at Vietnam National University, Hanoi
 - [DHQGHN-QD-4455](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.html) — Regulation on Management of Diplomas and Certificates
@@ -27,15 +27,15 @@
 - [DHVN-DT-840 Annex 2.](DHVN-DT-840%20Annex%202.%20Academic%20Schedule%20for%20VJU2024%20and%20VJU2023%20Cohorts.html) — Appendix 2. Academic Schedule for VJU2024 and VJU2023 Cohorts
 - [DHVN-DT-840 Annex 3.](DHVN-DT-840%20Annex%203.%20Academic%20Schedule%20for%20VJU2022%2C%20VJU2021%2C%20VJU2020%20Students.html) — Appendix 3. Academic Schedule for VJU2022, VJU2021, VJU2020 Students
 - [DHVN-DT-840 Annex 4.](DHVN-DT-840%20Annex%204.%20Academic%20Schedule%20for%20Master%E2%80%99s%20and%20PhD%20Programs.html) — Appendix 4. Academic Schedule for Master’s and PhD Programs
-- [DHVN-HD-000](DHVN-HD-000%205. Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.html) — 5. Guidelines on Using Foreign Language Certificates and Certifications
-- [DHVN-HD-1534](DHVN-HD-1534%205. Guidelines%20for%20Theses%20and%20Graduation%20Projects.html) — 5. Guidelines for Theses and Graduation Projects
+- [DHVN-HD-000](DHVN-HD-000%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.html) — 5. Guidelines on Using Foreign Language Certificates and Certifications
+- [DHVN-HD-1534](DHVN-HD-1534%20Guidelines%20for%20Theses%20and%20Graduation%20Projects.html) — 5. Guidelines for Theses and Graduation Projects
 - [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20English%20Format.html) — Thesis and Graduation Project Annex Templates - English Format
-- [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20Layout%205. Guide.html) — Thesis and Graduation Project Annex Templates - Layout 5. Guide
-- [DHVN-HD-259](DHVN-HD-259%205. Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20for%20VJU2020%20and%20VJU2021%20Cohorts.html) — 5. Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts
+- [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20Layout%20Guide.html) — Thesis and Graduation Project Annex Templates - Layout 5. Guide
+- [DHVN-HD-259](DHVN-HD-259%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20for%20VJU2020%20and%20VJU2021%20Cohorts.html) — 5. Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts
 - [DHVN-HD-259 Annex 1.](DHVN-HD-259%20Appendix%201%20Foreign%20Language%20Certificate%20Equivalency%20Table.html) — Appendix 1 Foreign Language Certificate Equivalency Table
 - [DHVN-HD-259 Annex 2.](DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.html) — Appendix 2 JLPT Authorization Letter Template
-- [DHVN-HD-304](DHVN-HD-304%205. Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.html) — 5. Guidelines for Recognizing Learning Outcomes and Credit Transfer
-- [DHVN-HD-483](DHVN-HD-483%205. Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html) — 5. Guidelines for Practical Internships and Internship Topics
+- [DHVN-HD-304](DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.html) — 5. Guidelines for Recognizing Learning Outcomes and Credit Transfer
+- [DHVN-HD-483](DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html) — 5. Guidelines for Practical Internships and Internship Topics
 - [DHVN-QD-473](DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html) — Regulations on Academic Advisory Work
 - [DHVN-QD-700](DHVN-QD-700%20Regulations%20on%20the%20Prevention%20of%20Plagiarism%20in%20Education%20and%20Scientific%20Research%20at%20VNU%20Vietnam-Japan%20University.html) — Regulations on the Prevention of Plagiarism in Education and Scientific Research at VNU – Vietnam-Japan University
 - [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.html) — Notification on Submission of English Language Certificates
