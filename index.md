@@ -102,6 +102,13 @@ This site centralizes related documents for VNU – Vietnam-Japan University. En
 
 This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.
 
+## 1. Public Report 2025
+
+{% assign report_docs = site.data.public_report_2025_en %}
+{% for doc in report_docs %}
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
+{% endfor %}
+
 ## 2. Quality Assurance
 
 {% assign qa_docs = site.data.quality_assurance_en %}
@@ -136,13 +143,6 @@ This page may temporarily contain broken links while updates are in progress. If
 
 {% assign testing_docs = site.data.education_testing_en %}
 {% for doc in testing_docs %}
-- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
-{% endfor %}
-
-## 1. Public Report 2025
-
-{% assign report_docs = site.data.public_report_2025_en %}
-{% for doc in report_docs %}
 - [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 

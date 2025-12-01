@@ -102,20 +102,27 @@ Trang này tổng hợp các tài liệu liên quan bằng tiếng Việt của 
 
 Trang này có thể xuất hiện các liên kết bị lỗi trong quá trình cập nhật. Nếu gặp tình trạng này, vui lòng truy cập kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng quy định.
 
-## Đảm bảo chất lượng
+## 1. Báo cáo công khai 2025
+
+{% assign reports_vi = site.data.public_report_2025_vi %}
+{% for doc in reports_vi %}
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
+{% endfor %}
+
+## 2. Đảm bảo chất lượng
 
 {% assign qa_docs_vi = site.data.quality_assurance_vi %}
 {% for doc in qa_docs_vi %}
 - [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
-## Quy định của trường
+## 3. Quy định của trường
 
 {% assign regulations_vi = site.data.university_regulations_vi %}
 {% assign reg_count_vi = regulations_vi | size %}
 {% if reg_count_vi > 15 %}
 <details class="collection-toggle" open>
-  <summary>Danh mục quy định ({{ reg_count_vi }})</summary>
+  <summary>3. Danh mục quy định ({{ reg_count_vi }})</summary>
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations_vi %}
@@ -132,17 +139,10 @@ Trang này có thể xuất hiện các liên kết bị lỗi trong quá trình
 </ul>
 {% endif %}
 
-## Tài liệu khảo thí
+## 4. Tài liệu khảo thí
 
 {% assign testing_docs_vi = site.data.education_testing_vi %}
 {% for doc in testing_docs_vi %}
-- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
-{% endfor %}
-
-## Báo cáo công khai 2025
-
-{% assign reports_vi = site.data.public_report_2025_vi %}
-{% for doc in reports_vi %}
 - [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
