@@ -24,3 +24,4 @@ exclude:
   - "**/Source/**/*_source.md"
   - "**/Source/**/*_source.pdf"
   - "**/Source/**/*_source.docx"
+  - "AGENTS_VJU-Document.md"
