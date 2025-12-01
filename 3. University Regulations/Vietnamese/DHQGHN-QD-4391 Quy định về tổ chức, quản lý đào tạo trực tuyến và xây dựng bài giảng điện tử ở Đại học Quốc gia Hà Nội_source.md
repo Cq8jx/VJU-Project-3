@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-4391
-title: Quy định về tổ chức, quản lý đào tạo trực tuyến và xây dựng bài giảng điện tử ở Đại học Quốc gia Hà Nội
+title: Quy định về tổ chức, quản lý đào tạo trực tuyến và xây dựng bài giảng điện tử ở Đại học Quốc gia Hà Nội_source
 issuer: Đại học Quốc gia Hà Nội
 category: 3. University Regulations
 issue_date: 2021-12-29

@@ -223,85 +223,25 @@ knowledge requirements must be completed before applying.
 ### Article 9. Conditions for admission
 
 Candidates applying for the doctoral training program must meet the
-following conditions: 1. Clear personal history, not serving a criminal
-sentence, or having a disciplinary record of warning level or higher. 2.
-Good enough health to study. 3. Graduated with a master's degree or a
-regular university degree with a good grade or higher in a suitable
-field/major, or graduated with a level equivalent to level 7 according
-to the Vietnamese National Qualifications Framework in a number of
-specialized training fields suitable for the doctoral training
-field/major. In case the candidate has to take additional courses, they
-must complete them before registering for the exam. Diplomas issued by
-foreign educational institutions must undergo recognition procedures
-according to current regulations. 4. Meet the entrance requirements
-according to the training program standards issued by the Ministry of
-Education and Training and of the doctoral training program for which
-they are applying. 5. Have research experience demonstrated through a
-master's thesis of a research-oriented training program and published
-works according to the regulations of the training unit (if any).
-Candidates with an applied-oriented master's degree or a master's
-degree in a relevant field/specialty but must take additional knowledge
-or candidates applying from a bachelor's degree must be the author or
-co-author of at least 01 scientific publication. Scientific publications
-can be articles in specialized scientific journals or scientific reports
-published in the proceedings of national or international scientific
-conferences and seminars with peer review, with an ISBN publication code
-related to the field or research topic, recognized by the council of
-professors and associate professors of the field/interdisciplinary. 6.
-Have a research outline, clearly stating the name of the proposed topic,
-research field; reasons for choosing the field, research topic; a
-summary of the research situation in that field at home and abroad;
-research objectives; some main research contents; Research methods and
-expected results; reasons for choosing the training unit; implementation
-plan during the training period; experiences, knowledge, understanding
-as well as preparations of the candidate for the doctoral thesis. The
-outline can propose a supervisor. 7. There is a letter of recommendation
-from at least 01 scientist with the title of professor, associate
-professor or a doctorate of science, doctorate who has participated in
-professional activities with the candidate and is knowledgeable in the
-professional field that the candidate intends to research. The letter of
-recommendation must include comments and assessments of the candidate
-on: - Ethical qualities, capacity and attitude in scientific research,
-professional qualifications of the candidate; - For scientists who meet
-the criteria of a doctoral supervisor and agree to be a thesis
-supervisor, it is necessary to add comments on the urgency and
-feasibility of the topic and research content; and clearly state the
-ability to mobilize graduate students for research topics and projects
-as well as the funding sources that can be spent on the research
-activities of the graduate students (if any); - Other comments and the
-level of support and recommendation for candidates to become graduate
-students. 8. Applicants who are Vietnamese citizens must meet the
-foreign language proficiency requirements in accordance with the foreign
-language output standards of the training program as evidenced by one of
-the following diplomas or certificates:
-    a) A university degree or higher
-issued by a foreign training institution, a branch of a foreign training
-institution in Vietnam or a Vietnamese training institution to full-time
-students in a foreign language;
-    b) A university degree in foreign
-languages or foreign language pedagogy issued by a Vietnamese training
-institution;
-    c) Have a foreign language certificate equivalent to level
-4 according to the 6-level foreign language proficiency framework for
-Vietnam within 2 years from the date of taking the foreign language
-certificate exam to the date of registration for admission, issued by
-institutions accepted by the Ministry of Education and Training and
-Hanoi National University;
-    d) Applicants for foreign language or foreign
-language pedagogy must have proficiency in another foreign language at
-an equivalent level as prescribed in points a, b, c above. 9. Applicants
-who are foreign citizens and register for a doctoral training program in
-Vietnamese must have a Vietnamese language certificate of at least level
-4 according to the Vietnamese language proficiency framework for
-foreigners or have graduated from a university (or equivalent level or
-higher) where the training program is taught in Vietnamese and must meet
-the requirements for a second foreign language as prescribed by the
-training program (if any), except in the case of being a native speaker
-of the language used in the doctoral training program. 10. Meet the
-requirements of professional experience and seniority according to the
-specific requirements of each training sector/specialization. 11. Commit
-to fulfilling financial obligations during the training process
-according to the regulations of the training unit.
+following conditions:
+1.  Clear personal history, not serving a criminal sentence, or having a disciplinary record of warning level or higher.
+2.  Good enough health to study.
+3.  Graduated with a master's degree or a regular university degree with a good grade or higher in a suitable field/major, or graduated with a level equivalent to level 7 according to the Vietnamese National Qualifications Framework in a number of specialized training fields suitable for the doctoral training field/major. In case the candidate has to take additional courses, they must complete them before registering for the exam. Diplomas issued by foreign educational institutions must undergo recognition procedures according to current regulations.
+4.  Meet the entrance requirements according to the training program standards issued by the Ministry of Education and Training and of the doctoral training program for which they are applying.
+5.  Have research experience demonstrated through a master's thesis of a research-oriented training program and published works according to the regulations of the training unit (if any). Candidates with an applied-oriented master's degree or a master's degree in a relevant field/specialty but must take additional knowledge or candidates applying from a bachelor's degree must be the author or co-author of at least 01 scientific publication. Scientific publications can be articles in specialized scientific journals or scientific reports published in the proceedings of national or international scientific conferences and seminars with peer review, with an ISBN publication code related to the field or research topic, recognized by the council of professors and associate professors of the field/interdisciplinary.
+6.  Have a research outline, clearly stating the name of the proposed topic, research field; reasons for choosing the field, research topic; a summary of the research situation in that field at home and abroad; research objectives; some main research contents; Research methods and expected results; reasons for choosing the training unit; implementation plan during the training period; experiences, knowledge, understanding as well as preparations of the candidate for the doctoral thesis. The outline can propose a supervisor.
+7.  There is a letter of recommendation from at least 01 scientist with the title of professor, associate professor or a doctorate of science, doctorate who has participated in professional activities with the candidate and is knowledgeable in the professional field that the candidate intends to research. The letter of recommendation must include comments and assessments of the candidate on:
+    -   Ethical qualities, capacity and attitude in scientific research, professional qualifications of the candidate;
+    -   For scientists who meet the criteria of a doctoral supervisor and agree to be a thesis supervisor, it is necessary to add comments on the urgency and feasibility of the topic and research content; and clearly state the ability to mobilize graduate students for research topics and projects as well as the funding sources that can be spent on the research activities of the graduate students (if any);
+    -   Other comments and the level of support and recommendation for candidates to become graduate students.
+8.  Applicants who are Vietnamese citizens must meet the foreign language proficiency requirements in accordance with the foreign language output standards of the training program as evidenced by one of the following diplomas or certificates:
+    a) A university degree or higher issued by a foreign training institution, a branch of a foreign training institution in Vietnam or a Vietnamese training institution to full-time students in a foreign language;
+    b) A university degree in foreign languages or foreign language pedagogy issued by a Vietnamese training institution;
+    c) Have a foreign language certificate equivalent to level 4 according to the 6-level foreign language proficiency framework for Vietnam within 2 years from the date of taking the foreign language certificate exam to the date of registration for admission, issued by institutions accepted by the Ministry of Education and Training and Hanoi National University;
+    d) Applicants for foreign language or foreign language pedagogy must have proficiency in another foreign language at an equivalent level as prescribed in points a, b, c above.
+9.  Applicants who are foreign citizens and register for a doctoral training program in Vietnamese must have a Vietnamese language certificate of at least level 4 according to the Vietnamese language proficiency framework for foreigners or have graduated from a university (or equivalent level or higher) where the training program is taught in Vietnamese and must meet the requirements for a second foreign language as prescribed by the training program (if any), except in the case of being a native speaker of the language used in the doctoral training program.
+10. Meet the requirements of professional experience and seniority according to the specific requirements of each training sector/specialization.
+11. Commit to fulfilling financial obligations during the training process according to the regulations of the training unit.
 
 ### Article 10. Organization of supplementary knowledge learning
 
