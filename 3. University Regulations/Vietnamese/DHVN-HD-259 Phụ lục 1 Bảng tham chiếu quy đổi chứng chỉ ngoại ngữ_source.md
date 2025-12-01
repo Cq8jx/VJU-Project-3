@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259 Annex 1.
-title: Phụ lục 1 Bảng tham chiếu quy đổi chứng chỉ ngoại ngữ
+title: Phụ lục 1 Bảng tham chiếu quy đổi chứng chỉ ngoại ngữ_source
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official

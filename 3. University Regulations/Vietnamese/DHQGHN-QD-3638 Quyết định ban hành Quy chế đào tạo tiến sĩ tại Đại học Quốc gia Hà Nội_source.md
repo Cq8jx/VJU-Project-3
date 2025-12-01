@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3638
-title: Quyết định ban hành Quy chế đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội
+title: Quyết định ban hành Quy chế đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội_source
 issuer: Vietnam National University, Hanoi
 category: 3. University Regulations
 status: Official

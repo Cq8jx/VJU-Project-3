@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-5115
-title: '[Thay thế bởi ĐHQGHN-QĐ-3626-2022] Quy chế đào tạo đại học_source'
+title: '[Thay thế bởi ĐHQGHN-QĐ-3626-2022] Quy chế đào tạo đại học_source'_source
 issuer: Đại học Quốc gia Hà Nội
 category: 3. University Regulations
 issue_date: null

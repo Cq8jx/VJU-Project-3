@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: Phụ lục biểu mẫu khóa luận tiếng Anh
+title: Phụ lục biểu mẫu khóa luận tiếng Anh_source
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official

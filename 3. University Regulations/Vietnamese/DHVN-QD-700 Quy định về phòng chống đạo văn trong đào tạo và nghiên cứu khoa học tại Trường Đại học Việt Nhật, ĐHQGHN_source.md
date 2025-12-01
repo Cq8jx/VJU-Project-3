@@ -1,6 +1,6 @@
 ---
 id: DHVN-QD-700
-title: Quy định về phòng chống đạo văn trong đào tạo và nghiên cứu khoa học tại Trường Đại học Việt Nhật, ĐHQGHN
+title: Quy định về phòng chống đạo văn trong đào tạo và nghiên cứu khoa học tại Trường Đại học Việt Nhật, ĐHQGHN_source
 issuer: Trường Đại học Việt Nhật
 category: 3. University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3636
-title: Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội
+title: Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội_source
 issuer: Vietnam National University, Hanoi
 category: 3. University Regulations
 status: Official

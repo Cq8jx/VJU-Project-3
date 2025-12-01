@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-483
-title: Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập
+title: Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập_source
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official

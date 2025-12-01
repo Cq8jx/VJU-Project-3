@@ -1,6 +1,6 @@
 ---
 id: DHVN-DT-840 Annex 4.
-title: Phụ lục 4. Lịch trình đào tạo thạc sĩ, tiến sĩ
+title: Phụ lục 4. Lịch trình đào tạo thạc sĩ, tiến sĩ_source
 issuer: VNU – Vietnam-Japan University
 category: Academic Affairs
 status: Issued

@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: Hướng dẫn Sử dụng chứng chỉ ngoại ngữ khóa VJU2020 VJU2021
+title: Hướng dẫn Sử dụng chứng chỉ ngoại ngữ khóa VJU2020 VJU2021_source
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official

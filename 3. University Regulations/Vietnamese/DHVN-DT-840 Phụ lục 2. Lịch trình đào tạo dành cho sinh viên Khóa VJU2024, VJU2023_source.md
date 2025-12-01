@@ -1,6 +1,6 @@
 ---
 id: DHVN-DT-840 Annex 2.
-title: Phụ lục 2. Lịch trình đào tạo dành cho sinh viên Khóa VJU2024, VJU2023
+title: Phụ lục 2. Lịch trình đào tạo dành cho sinh viên Khóa VJU2024, VJU2023_source
 issuer: VNU – Vietnam-Japan University
 category: Academic Affairs
 status: Issued

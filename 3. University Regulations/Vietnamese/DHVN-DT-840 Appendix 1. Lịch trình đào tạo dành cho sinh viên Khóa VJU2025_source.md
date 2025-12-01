@@ -1,6 +1,6 @@
 ---
 id: DHVN-DT-840 Annex 1.
-title: Phụ lục 1. Lịch trình đào tạo dành cho sinh viên Khóa VJU2025
+title: Phụ lục 1. Lịch trình đào tạo dành cho sinh viên Khóa VJU2025_source
 issuer: VNU – Vietnam-Japan University
 category: Academic Affairs
 status: Issued

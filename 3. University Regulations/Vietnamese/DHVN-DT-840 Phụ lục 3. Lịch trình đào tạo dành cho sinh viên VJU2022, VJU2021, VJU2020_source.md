@@ -1,6 +1,6 @@
 ---
 id: DHVN-DT-840 Annex 3.
-title: Phụ lục 3. Lịch trình đào tạo dành cho sinh viên VJU2022, VJU2021, VJU2020
+title: Phụ lục 3. Lịch trình đào tạo dành cho sinh viên VJU2022, VJU2021, VJU2020_source
 issuer: VNU – Vietnam-Japan University
 category: Academic Affairs
 status: Issued

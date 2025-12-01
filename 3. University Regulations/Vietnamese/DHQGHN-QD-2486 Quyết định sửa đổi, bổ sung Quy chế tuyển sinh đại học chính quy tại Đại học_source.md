@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-2486
-title: Quyết định sửa đổi, bổ sung Quy chế tuyển sinh đại học chính quy tại Đại học
+title: Quyết định sửa đổi, bổ sung Quy chế tuyển sinh đại học chính quy tại Đại học_source
   Quốc gia Hà Nội_source
 issuer: Vietnam National University, Hanoi
 category: 3. University Regulations

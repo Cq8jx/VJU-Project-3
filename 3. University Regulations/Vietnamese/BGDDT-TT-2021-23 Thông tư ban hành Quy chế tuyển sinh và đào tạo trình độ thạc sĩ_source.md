@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-2021-23
-title: Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ
+title: Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ_source
 issuer: Bộ Giáo dục và Đào tạo
 category: 3. University Regulations
 issue_date: null

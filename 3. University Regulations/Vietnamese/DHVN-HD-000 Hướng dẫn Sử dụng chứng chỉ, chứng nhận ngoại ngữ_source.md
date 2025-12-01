@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-000
-title: Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ
+title: Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ_source
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official

@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: Hướng dẫn Tổ chức thực hiện khóa luận, đồ án tốt nghiệp
+title: Hướng dẫn Tổ chức thực hiện khóa luận, đồ án tốt nghiệp_source
 issuer: VNU – Vietnam-Japan University
 category: 3. University Regulations
 status: Official

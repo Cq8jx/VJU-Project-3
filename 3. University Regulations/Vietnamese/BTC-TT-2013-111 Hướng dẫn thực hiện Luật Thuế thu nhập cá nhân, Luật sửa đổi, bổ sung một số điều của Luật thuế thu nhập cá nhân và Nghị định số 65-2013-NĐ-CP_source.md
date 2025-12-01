@@ -1,6 +1,6 @@
 ---
 id: BTC-TT-2013-111
-title: Hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số
+title: Hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số_source
   điều của Luật thuế thu nhập cá nhân và Nghị định số 65-2013-NĐ-CP_source
 issuer: Bộ Tài chính
 category: 3. University Regulations

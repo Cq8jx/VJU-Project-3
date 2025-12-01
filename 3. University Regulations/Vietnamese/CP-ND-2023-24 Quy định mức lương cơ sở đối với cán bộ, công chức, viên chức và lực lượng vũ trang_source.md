@@ -1,6 +1,6 @@
 ---
 id: CP-ND-2023-24
-title: Quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng
+title: Quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng_source
   vũ trang_source
 issuer: Chính phủ
 category: 3. University Regulations

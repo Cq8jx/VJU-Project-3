@@ -1,6 +1,6 @@
 ---
 id: DHVN-DT-840
-title: Công văn về Lịch trình đào tạo năm học 2025–2026
+title: Công văn về Lịch trình đào tạo năm học 2025–2026_source
 issuer: VNU – Vietnam-Japan University
 category: Official Letter
 status: Issued
