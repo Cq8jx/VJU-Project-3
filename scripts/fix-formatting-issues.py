@@ -103,7 +103,11 @@ def main():
         if md_file.name == 'index.md':
             continue
             
-        changes = fix_markdown_file(md_file)
+        try:
+            changes = fix_markdown_file(md_file)
+        except Exception as e:
+            print(f"\n✗ Error processing {md_file.relative_to(base_dir)}: {e}")
+            continue
         if changes:
             files_fixed.append((md_file, changes))
             print(f"\n✓ Fixed: {md_file.relative_to(base_dir)}")

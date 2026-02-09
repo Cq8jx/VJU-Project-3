@@ -83,10 +83,14 @@ def main():
         if md_file.name == 'index.md':
             continue
             
-        changes = fix_vietnamese_title(md_file)
+        try:
+            changes = fix_vietnamese_title(md_file)
+        except Exception as e:
+            print(f"✗ Error processing {md_file.name}: {e}")
+            continue
         if changes:
             files_fixed.append((md_file, changes))
-            print(f"Fixed: {md_file.name}")
+            print(f"✓ Fixed: {md_file.name}")
     
     print(f"\n{'='*60}")
     print(f"Total Vietnamese files fixed: {len(files_fixed)}")
