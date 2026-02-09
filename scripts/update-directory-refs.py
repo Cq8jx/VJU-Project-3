@@ -3,18 +3,22 @@
 Script to update all references to renamed directories
 """
 
-import os
+import argparse
 import re
 from pathlib import Path
 
 # Mapping of old names to new names
 REPLACEMENTS = {
-    "1. Public Report 2025": "1. 1. Public Report 2025",
-    "2. Quality Assurance": "2. 2. Quality Assurance",
-    "3. University Regulations": "3. 3. University Regulations",
-    "4. Education Testing": "4. 4. Education Testing",
-    "5. Guide": "5. 5. Guide",
+    "1. Public Report 2025": "1. Public Report 2025",
+    "2. Quality Assurance": "2. Quality Assurance",
+    "3. University Regulations": "3. University Regulations",
+    "4. Education Testing": "4. Education Testing",
+    "5. Guide": "5. Guide",
 }
+# NOTE: This script was found with a bug where replacements doubled the number prefix
+# (e.g., "1. ..." -> "1. 1. ..."). The mappings above have been corrected to be
+# identity mappings (no-ops) to prevent further damage. If actual renaming is needed,
+# update the values to the correct new directory names before running.
 
 # File extensions to process
 EXTENSIONS = [".yml", ".yaml", ".py", ".md", ".json"]
@@ -45,9 +49,25 @@ def update_file_content(filepath):
         print(f"Error processing {filepath}: {e}")
         return False
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Update all references to renamed directories.")
+    parser.add_argument(
+        "--base-dir",
+        type=Path,
+        default=Path("."),
+        help="Path to the VJU-Project root directory (default: current directory).",
+    )
+    return parser.parse_args()
+
+
 def main():
     """Main function"""
-    project_root = Path("/Users/home/GitHub/VJU-Project")
+    args = parse_args()
+    project_root = args.base_dir.resolve()
+
+    if not project_root.exists():
+        print(f"Error: Directory not found: {project_root}")
+        return
     updated_files = []
     
     # Process all files in project

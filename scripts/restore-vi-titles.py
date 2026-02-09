@@ -4,8 +4,8 @@ Fix: Add '_source' suffix back to titles in Vietnamese markdown files.
 The user confirmed that Vietnamese version files MUST have the '_source' suffix.
 """
 
+import argparse
 import re
-import os
 from pathlib import Path
 
 def fix_vietnamese_title(filepath):
@@ -54,9 +54,21 @@ def fix_vietnamese_title(filepath):
         return changes
     return None
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Add '_source' suffix back to titles in Vietnamese markdown files.")
+    parser.add_argument(
+        "--base-dir",
+        type=Path,
+        default=Path("3. University Regulations/Vietnamese"),
+        help="Path to the Vietnamese regulations directory (default: '3. University Regulations/Vietnamese').",
+    )
+    return parser.parse_args()
+
+
 def main():
     """Process all markdown files in University Regulations/Vietnamese directory."""
-    base_dir = Path('/Users/home/GitHub/VJU-Project/3. University Regulations/Vietnamese')
+    args = parse_args()
+    base_dir = args.base_dir.resolve()
     
     files_fixed = []
     

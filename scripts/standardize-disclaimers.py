@@ -4,7 +4,7 @@ Script to standardize disclaimer text across all markdown files.
 Replaces various disclaimer formats with a unified standard format.
 """
 
-import os
+import argparse
 import re
 from pathlib import Path
 
@@ -110,9 +110,25 @@ def standardize_disclaimer(filepath):
     except Exception as e:
         return False, f"Error: {str(e)}"
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Standardize disclaimer text across all markdown files.")
+    parser.add_argument(
+        "--base-dir",
+        type=Path,
+        default=Path("3. University Regulations"),
+        help="Path to the University Regulations directory (default: '3. University Regulations').",
+    )
+    return parser.parse_args()
+
+
 def main():
     """Main function to process all files."""
-    base_dir = Path('/Users/home/GitHub/VJU-Project/3. University Regulations')
+    args = parse_args()
+    base_dir = args.base_dir.resolve()
+
+    if not base_dir.exists():
+        print(f"Error: Directory not found: {base_dir}")
+        return
     
     stats = {'updated': 0, 'skipped': 0, 'errors': 0}
     

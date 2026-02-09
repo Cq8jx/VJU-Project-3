@@ -6,8 +6,8 @@ Fix common formatting issues in University Regulations markdown files:
 3. Reorder version list to: en, ja, vi, source
 """
 
+import argparse
 import re
-import os
 from pathlib import Path
 
 def fix_markdown_file(filepath):
@@ -76,9 +76,25 @@ def fix_markdown_file(filepath):
         return changes
     return None
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Fix common formatting issues in University Regulations markdown files.")
+    parser.add_argument(
+        "--base-dir",
+        type=Path,
+        default=Path("3. University Regulations"),
+        help="Path to the University Regulations directory (default: '3. University Regulations').",
+    )
+    return parser.parse_args()
+
+
 def main():
     """Process all markdown files in University Regulations directory."""
-    base_dir = Path('/Users/home/GitHub/VJU-Project/3. University Regulations')
+    args = parse_args()
+    base_dir = args.base_dir.resolve()
+
+    if not base_dir.exists():
+        print(f"Error: Directory not found: {base_dir}")
+        return
     
     files_fixed = []
     
