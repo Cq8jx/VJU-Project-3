@@ -1,6 +1,6 @@
 ---
 id: README
-title: VJU-Project Repository 5. Guide
+title: VJU-Project-3 Repository 5. Guide
 issuer: Trường Đại học Việt Nhật
 category: General
 issue_date: null
@@ -12,7 +12,7 @@ replaced_by: []
 revision_history: []
 tags: [general]
 ---
-# VJU-Project Repository 5. Guide
+# VJU-Project-3 Repository 5. Guide
 
 This repository catalogs Vietnam Japan University (VJU) regulations, public disclosure files, and internal guidance collected for academic and administrative use. Use the multilingual tables of contents below to navigate directly to each language's Markdown notes and the corresponding source files.
 

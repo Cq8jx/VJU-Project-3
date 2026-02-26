@@ -55,7 +55,7 @@ def parse_args():
         "--base-dir",
         type=Path,
         default=Path("."),
-        help="Path to the VJU-Project root directory (default: current directory).",
+        help="Path to the VJU-Project-3 root directory (default: current directory).",
     )
     return parser.parse_args()
 

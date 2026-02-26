@@ -128,7 +128,7 @@ lang: ja  # このファイルの言語（en, ja, vi のいずれか）
 - `organizeMarkdownDocuments` は English/Japanese/Vietnamese/Source/ToProcess を動的に検出するため、フォルダ構成を変更した場合でも名称を合わせれば自動追従する
 - PDF 取り込み時は `_source_<LANG>` 命名で各言語の Markdown を生成し、時間切れ時は pending JSON に処理キューを保存して再開時に優先処理する。ToProcess が空になった際は GitHub Pages workflow（deploy-pages.yml）を API でトリガーする設計を維持する
 - `sanitizeTitle` は Unicode を保持しつつ禁止文字のみ除去する。ベース言語ごとの `_source_<LANG>` を `_source.md` に統合し、DHVN-DT-840 系列などの付録でも正式タイトルと ID を保つ
-- University Regulations フォルダを操作するときは必ず `/Users/home/GitHub/VJU-Project` 配下で作業し、Git 管理外の別リポジトリへ変更を反映しない
+- University Regulations フォルダを操作するときは必ず `/Users/home/GitHub/VJU-Project-3` 配下で作業し、Git 管理外の別リポジトリへ変更を反映しない
 
 ### 2.5 言語切替機能の確認
 - 各言語版のファイルが同じ `id` を持っていることを確認
@@ -206,11 +206,11 @@ lang: ja  # このファイルの言語（en, ja, vi のいずれか）
 ### 5.1 基本方針
 - GitHub を使用する際は原則として全ファイルを追跡対象から外し、ユーザー指示のあったファイルのみ明示的に add／commit する
 - `.tmp.driveupload` フォルダや `.DS_Store` は追跡対象としない
-- push 前に `git remote -v` と `git status -sb` で対象リポジトリと差分を確認し、必要なら `cd ~/GitHub/VJU-Project` と明示して誤った場所へ push しない
+- push 前に `git remote -v` と `git status -sb` で対象リポジトリと差分を確認し、必要なら `cd ~/GitHub/VJU-Project-3` と明示して誤った場所へ push しない
 - push 後は Deploy GitHub Pages workflow の実行結果を確認し、表示異常が出たらソース差分と生成 HTML を突き合わせて原因を切り分ける
 
 ### 5.2 作業ディレクトリ
-- University Regulations フォルダを操作するときは必ず `/Users/home/GitHub/VJU-Project` 配下で作業し、Git 管理外の別リポジトリへ変更を反映しない
+- University Regulations フォルダを操作するときは必ず `/Users/home/GitHub/VJU-Project-3` 配下で作業し、Git 管理外の別リポジトリへ変更を反映しない
 
 ---
 

@@ -16,7 +16,7 @@ lang: en
 
 <div class="source-note">
   <p>
-    <strong>Source Note:</strong> This document was generated from an original PDF issued by Vietnam-Japan University, as part of the VJU Project. Efforts have been made to ensure accurate conversion, but the original document should be consulted for official purposes.
+    <strong>Source Note:</strong> This document was generated from an original PDF issued by Vietnam-Japan University, as part of the VJU Project 3. Efforts have been made to ensure accurate conversion, but the original document should be consulted for official purposes.
   </p>
   <p>
     <strong>Link Availability Statement:</strong> Hyperlinks in this document are provided for convenience and were accurate at the time of publication. Vietnam-Japan University is not responsible for the validity or content of external websites.

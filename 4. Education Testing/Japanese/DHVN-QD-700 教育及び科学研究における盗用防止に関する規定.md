@@ -35,8 +35,8 @@ lang: ja
 </div>
 
 <div class="source-note" role="note" aria-label="Link notice">
-  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
-  <p><strong>リンクについてのご案内。</strong> 更新作業中はリンクが一時的に無効になる可能性があります。その場合は https://github.com/Cq8jx/VJU-Project のリポジトリから各文書にアクセスしてください。</p>
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project-3 to access each regulation file.</p>
+  <p><strong>リンクについてのご案内。</strong> 更新作業中はリンクが一時的に無効になる可能性があります。その場合は https://github.com/Cq8jx/VJU-Project-3 のリポジトリから各文書にアクセスしてください。</p>
 </div>
 
 ---
