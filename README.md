@@ -12,6 +12,11 @@ replaced_by: []
 revision_history: []
 tags: [general]
 ---
+> [!WARNING]
+> This repository is deprecated and kept only as an archived historical snapshot.
+> The canonical repository for ongoing VJU document archive, QA, and maintenance work is [`VNU-VJU/Document-Archive`](https://github.com/VNU-VJU/Document-Archive).
+> Do not add new content or continue active maintenance here.
+
 # VJU-Project-3 Repository 5. Guide
 
 This repository catalogs Vietnam Japan University (VJU) regulations, public disclosure files, and internal guidance collected for academic and administrative use. Use the multilingual tables of contents below to navigate directly to each language's Markdown notes and the corresponding source files.
